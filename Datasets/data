@@ -1,1 +1,12 @@
 
+# Dataset
+
+The project uses four datasets generated using Python and its libraries
+Libraries such as 
+- Numpy
+- Pandas
+- Faker
+- tqdm
+
+Note: The datasets were generated specifically for this project
+and do not contain confidential or personal business data.

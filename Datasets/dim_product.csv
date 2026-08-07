@@ -1,0 +1,1001 @@
+product_id,sku,product_name,category,subcategory,brand,price,cost,stock_quantity,active,created_at
+1,SKU100001,Hold,Home,economy,Knapp-Welch,181.45,148.39,365,0,13-11-2021 23:03
+2,SKU100002,Picture,Beauty,suggest,Oconnell Inc,545.45,325.89,509,1,16-01-2021 02:03
+3,SKU100003,Employee,Beauty,approach,Acosta Ltd,727.57,354.51,664,1,22-09-2024 01:51
+4,SKU100004,Often,Beauty,language,Nichols Inc,487,229.13,680,1,25-02-2023 06:59
+5,SKU100005,Relate,Clothing,from,"Romero, Stanley and Davis",738.83,384,692,1,28-12-2021 00:57
+6,SKU100006,Back,Beauty,despite,Daugherty-Norris,38.66,27.37,251,1,15-05-2025 07:11
+7,SKU100007,Player,Beauty,little,Cook Ltd,14.76,12.31,971,1,25-05-2023 17:22
+8,SKU100008,Edge,Electronics,admit,"Martinez, Valencia and Williams",685.87,436.8,957,1,03-04-2021 01:42
+9,SKU100009,Word,Clothing,go,Williams Group,319.51,234.21,768,1,20-10-2022 12:40
+10,SKU100010,Half,Electronics,politics,Morrison-Walton,679.26,437.66,327,1,09-04-2021 22:07
+11,SKU100011,Our,Beauty,of,"Jones, Martinez and Garrison",113.33,73.99,911,1,24-04-2023 04:41
+12,SKU100012,Sing,Clothing,network,Morris PLC,423.36,282.61,259,1,30-09-2021 03:39
+13,SKU100013,Necessary,Beauty,eat,"Smith, Harrison and Rodriguez",83.98,41.61,830,1,07-10-2021 02:26
+14,SKU100014,Family,Home,available,Love-Anderson,550.31,325.81,849,1,28-02-2024 21:57
+15,SKU100015,Save,Clothing,method,Green Inc,635.83,365.54,248,1,06-01-2022 11:52
+16,SKU100016,Where,Sports,move,Johnson Group,237.8,182.57,283,1,19-11-2023 19:55
+17,SKU100017,Analysis,Sports,nearly,Hooper-Sanford,411.38,206.92,591,1,21-08-2022 19:03
+18,SKU100018,Six,Sports,summer,Chang Ltd,152.16,115.18,941,1,07-01-2023 02:07
+19,SKU100019,Affect,Electronics,customer,Hill-Williams,504.49,341.67,353,1,23-03-2021 03:42
+20,SKU100020,Sort,Beauty,believe,"Lyons, Snow and Barnes",222.48,118.04,907,1,17-07-2022 22:35
+21,SKU100021,Describe,Electronics,energy,"Jackson, Moran and Delacruz",248.65,209.89,330,0,21-01-2021 07:21
+22,SKU100022,Card,Clothing,anything,"Hanson, Mendez and Ross",119.73,63.51,930,1,19-04-2024 00:29
+23,SKU100023,Security,Sports,responsibility,Ibarra-Love,256.24,117.55,27,1,16-08-2022 01:33
+24,SKU100024,Method,Sports,really,Krueger-Coffey,864.98,595.73,167,1,06-11-2024 06:23
+25,SKU100025,Else,Sports,affect,Burton Group,273.33,226.12,461,1,04-07-2024 21:10
+26,SKU100026,Help,Beauty,trade,Arias Inc,970.39,553.07,545,1,06-10-2020 15:06
+27,SKU100027,Can,Beauty,loss,Finley and Sons,936.12,619.03,570,1,31-12-2024 02:31
+28,SKU100028,Help,Home,half,"Landry, Hall and Martinez",752.62,465.2,398,1,27-04-2025 21:26
+29,SKU100029,Recent,Beauty,instead,"Ray, Ingram and Mitchell",208.96,125.07,539,1,06-03-2021 07:16
+30,SKU100030,Make,Beauty,certain,"Peters, Meyer and Goodman",453.15,242.32,699,1,11-06-2023 16:42
+31,SKU100031,Issue,Sports,room,Gray Group,903.64,716.08,119,1,01-05-2025 10:04
+32,SKU100032,Wish,Clothing,prepare,Sanchez-Hess,800.79,540.88,982,1,04-11-2023 09:32
+33,SKU100033,Job,Sports,likely,Phillips-Hanna,958.31,695.01,66,1,26-08-2024 23:01
+34,SKU100034,Street,Home,none,Snow-Hart,246.94,161.5,347,1,06-03-2021 15:07
+35,SKU100035,Art,Home,away,Pearson LLC,480.08,296.46,449,1,02-11-2023 12:16
+36,SKU100036,Avoid,Clothing,attack,"Jones, Ayala and Chan",83.96,41.98,527,1,04-09-2024 02:07
+37,SKU100037,Unit,Electronics,role,Daniels-Reed,372.34,300.15,804,1,27-07-2020 04:19
+38,SKU100038,Arrive,Beauty,they,"Adams, Smith and Stanley",622.74,509.09,852,1,10-11-2021 20:14
+39,SKU100039,Most,Beauty,lot,"Phillips, Stokes and Caldwell",335.45,208.57,868,0,13-04-2024 12:36
+40,SKU100040,System,Beauty,accept,"Williams, Mitchell and Crawford",131.2,63.54,41,1,15-01-2023 10:38
+41,SKU100041,Sit,Beauty,thousand,Miller-Phillips,33.33,14.23,12,1,09-10-2020 14:01
+42,SKU100042,Pay,Home,will,Brewer-Waters,353.93,159.62,388,1,03-12-2023 03:30
+43,SKU100043,Of,Beauty,smile,Robinson-Johnson,367.5,152.36,68,1,25-04-2022 15:58
+44,SKU100044,Partner,Clothing,modern,"Galvan, Thornton and Harrison",280.86,229.32,418,1,14-03-2024 05:28
+45,SKU100045,Positive,Electronics,almost,"Mckinney, Maldonado and Thompson",659.42,521.85,137,1,08-11-2020 05:58
+46,SKU100046,Among,Electronics,society,Moreno-Richard,238.12,195.73,793,0,05-02-2021 13:51
+47,SKU100047,Hard,Clothing,recently,Hernandez-Olsen,409.39,207.37,898,1,19-05-2022 02:14
+48,SKU100048,Sense,Sports,toward,"Summers, Perez and Reese",877.4,496.43,321,1,08-08-2024 13:45
+49,SKU100049,Present,Electronics,theory,Johnson-Mitchell,822.05,576.87,584,1,08-06-2023 06:26
+50,SKU100050,These,Electronics,indeed,Reynolds-Moore,811.5,508.56,608,1,10-02-2022 18:33
+51,SKU100051,Play,Sports,write,Jones and Sons,5.09,3.16,782,1,19-03-2021 13:00
+52,SKU100052,Teach,Beauty,party,"Castro, Pena and Perez",634.73,397.92,149,1,11-07-2021 09:51
+53,SKU100053,Back,Sports,voice,Payne-Davis,787.84,664.07,872,1,31-03-2022 08:00
+54,SKU100054,Money,Sports,would,Wilson-Christian,251.31,167.02,466,1,26-05-2024 19:43
+55,SKU100055,Into,Home,charge,Faulkner-Johns,643.02,406.36,888,1,04-03-2022 17:25
+56,SKU100056,International,Sports,tend,"Ramirez, Kelly and Gentry",387.9,159.91,673,1,28-09-2024 21:18
+57,SKU100057,Full,Clothing,music,Brown Ltd,501.1,383.18,999,1,24-11-2022 14:26
+58,SKU100058,Within,Clothing,consider,"Morgan, Morales and Vasquez",880.05,373.9,284,0,16-05-2022 11:34
+59,SKU100059,There,Home,same,Nelson and Sons,663.45,397.84,615,1,10-10-2020 03:28
+60,SKU100060,Page,Electronics,him,Daniels LLC,945.43,758.82,702,1,25-05-2022 04:48
+61,SKU100061,Born,Home,pay,Ballard-Miranda,929.43,627.8,706,1,28-11-2022 17:08
+62,SKU100062,Speak,Beauty,talk,Webb-Mccoy,407.74,190.2,162,1,24-10-2020 15:25
+63,SKU100063,Plan,Beauty,color,Simmons-Reed,388.88,158.3,311,1,29-08-2020 19:47
+64,SKU100064,Picture,Electronics,require,Dean-Harrison,739.15,437.14,69,1,12-08-2020 17:32
+65,SKU100065,Position,Sports,traditional,"Chapman, Castillo and Powers",322.89,214.02,168,1,06-05-2024 21:34
+66,SKU100066,Business,Beauty,take,Barnes-Ortega,639.32,415,805,1,27-02-2021 05:02
+67,SKU100067,May,Beauty,store,Bryan Ltd,555.3,389.69,687,1,15-01-2022 11:10
+68,SKU100068,Check,Clothing,special,Rodriguez Ltd,12.11,6.64,783,1,02-06-2025 19:52
+69,SKU100069,Those,Home,follow,"Lopez, Shah and Christian",552.87,221.7,759,1,08-01-2022 17:42
+70,SKU100070,Successful,Sports,prevent,Palmer and Sons,620.49,381.45,534,1,28-08-2020 15:34
+71,SKU100071,Until,Sports,cell,Anderson-Sanchez,621.12,352.13,758,1,11-06-2024 05:04
+72,SKU100072,When,Home,meeting,Woods Inc,28.92,12.64,872,1,21-08-2020 04:34
+73,SKU100073,Industry,Electronics,lay,Mosley LLC,607.98,365.88,798,1,24-09-2022 09:48
+74,SKU100074,Spring,Home,how,Gordon-Thompson,111.22,63.91,566,1,08-09-2023 00:42
+75,SKU100075,Enjoy,Sports,kitchen,"Rios, Stafford and Jacobs",32.95,26.99,885,1,06-08-2022 08:35
+76,SKU100076,Edge,Beauty,same,"Hunter, Gonzalez and Cohen",937.19,469.51,898,1,15-05-2022 10:52
+77,SKU100077,Environment,Beauty,worry,Harrington Inc,772.05,347.61,174,1,23-11-2020 05:51
+78,SKU100078,Fund,Home,scene,Page and Sons,226.58,101.18,2,1,26-07-2024 20:03
+79,SKU100079,Book,Electronics,unit,Kane Group,428.97,208.69,848,0,24-08-2024 19:26
+80,SKU100080,Will,Sports,meet,Parker-Fisher,375.12,186.47,572,1,06-08-2022 17:16
+81,SKU100081,Which,Sports,science,Brown Ltd,921.72,453.38,797,1,26-09-2022 12:24
+82,SKU100082,Agreement,Sports,majority,"Jacobs, Garcia and Lopez",518.31,236.16,165,1,24-08-2021 07:01
+83,SKU100083,Look,Sports,section,Jones Ltd,397.69,219.2,47,1,29-04-2022 02:00
+84,SKU100084,People,Clothing,together,Morales Ltd,477.43,270.76,577,1,19-12-2021 06:51
+85,SKU100085,Team,Clothing,structure,Porter-Sutton,785.74,574.18,297,1,15-06-2022 18:55
+86,SKU100086,Guy,Sports,home,Leblanc-Hernandez,7.99,6.59,492,1,11-07-2022 21:22
+87,SKU100087,Focus,Clothing,security,Valdez LLC,135.18,113.52,40,1,13-11-2020 05:33
+88,SKU100088,Mr,Beauty,wind,Martinez Ltd,690,525.35,666,1,30-04-2021 18:12
+89,SKU100089,Pull,Beauty,himself,Mcdaniel-Richardson,504.68,216.56,933,1,06-03-2023 19:39
+90,SKU100090,Experience,Home,real,Joseph Ltd,328.71,197.69,350,1,14-02-2025 19:07
+91,SKU100091,Sister,Sports,stand,Shea LLC,295.5,166.04,644,1,27-01-2025 00:43
+92,SKU100092,Strategy,Electronics,street,"Jennings, Hoover and Knight",528.76,247.89,16,1,12-09-2024 01:26
+93,SKU100093,Method,Sports,rule,"Vaughn, Ali and Burns",90.22,38.49,752,1,11-02-2022 05:00
+94,SKU100094,Smile,Electronics,far,Perez Inc,763.91,504.89,415,1,12-02-2023 15:21
+95,SKU100095,Toward,Electronics,check,Mccarty-Hutchinson,525.38,238.26,88,1,23-04-2021 00:31
+96,SKU100096,Stock,Sports,throughout,"Barnes, Salinas and Wagner",369.89,211.61,91,1,12-02-2023 15:10
+97,SKU100097,Cover,Sports,reveal,Gregory-Lopez,288.11,206.6,679,1,16-07-2024 06:44
+98,SKU100098,Prevent,Clothing,standard,Parks-Cline,49.81,20.85,343,1,18-04-2024 19:47
+99,SKU100099,Almost,Beauty,performance,Barajas-Le,38.75,26.67,141,1,25-05-2025 14:23
+100,SKU100100,Few,Beauty,do,"Sanchez, Matthews and Ali",480.17,279.82,637,1,03-12-2023 23:50
+101,SKU100101,White,Beauty,radio,Hoffman-Wilson,927.22,531.29,808,1,28-02-2025 06:42
+102,SKU100102,Weight,Clothing,article,Brady-Spears,245.79,146.66,756,1,10-11-2021 23:35
+103,SKU100103,On,Electronics,although,Miller-Williams,896.16,690.92,942,1,30-05-2022 01:56
+104,SKU100104,Site,Beauty,state,"Quinn, Brown and Eaton",789.57,455.73,222,1,19-10-2020 18:26
+105,SKU100105,Seek,Clothing,base,Sutton Inc,489.8,387.86,371,1,16-10-2022 04:48
+106,SKU100106,System,Sports,yard,"Garcia, Valdez and Kim",512.44,376.49,39,1,09-01-2021 09:13
+107,SKU100107,Either,Clothing,turn,Moore LLC,224.83,125.29,892,1,28-10-2023 20:24
+108,SKU100108,Bank,Beauty,painting,Spears and Sons,188.06,98.25,645,1,04-04-2024 01:44
+109,SKU100109,Pull,Beauty,positive,"Wilson, Howard and Mathis",409.94,293.54,36,1,12-09-2020 16:49
+110,SKU100110,Customer,Home,plant,Ashley-Mitchell,730.98,377.87,605,1,15-02-2023 22:56
+111,SKU100111,Side,Beauty,imagine,Anderson Ltd,711.5,290.42,888,1,16-02-2025 15:10
+112,SKU100112,While,Home,news,"Adams, Taylor and Aguirre",800.04,470.19,862,1,22-12-2022 02:29
+113,SKU100113,Best,Sports,step,"Moore, Hernandez and Jackson",305.08,216.41,112,1,10-10-2021 05:21
+114,SKU100114,Type,Sports,public,Merritt-Edwards,55.68,36.79,215,1,23-05-2024 01:56
+115,SKU100115,Specific,Beauty,wife,"Mcguire, Moran and Mathews",825.51,684,991,1,25-07-2024 11:08
+116,SKU100116,Cover,Beauty,level,Jacobson-Harris,401.01,233.72,932,1,22-07-2022 05:11
+117,SKU100117,In,Beauty,treatment,House-Sweeney,226.76,92.52,301,1,17-03-2023 21:03
+118,SKU100118,Offer,Electronics,production,Mcconnell-Jackson,113.04,54.4,373,1,08-02-2025 15:04
+119,SKU100119,Director,Sports,current,Johnson-Foster,384.12,209.91,394,0,21-05-2021 07:03
+120,SKU100120,Produce,Home,yard,Mcmahon Group,372.84,188,886,1,15-08-2020 14:51
+121,SKU100121,List,Sports,place,Hill Inc,424.6,194.15,607,1,29-12-2020 10:54
+122,SKU100122,Let,Home,community,Turner Inc,397.69,296.93,805,1,14-11-2024 01:16
+123,SKU100123,Item,Sports,present,Villa-Davis,886.95,496.33,810,1,27-07-2023 16:44
+124,SKU100124,Candidate,Clothing,ready,"Thompson, Williams and Sims",586.44,316.14,372,1,18-05-2025 23:15
+125,SKU100125,Billion,Beauty,visit,"Mcguire, Hernandez and Schneider",64.63,42.26,631,1,20-04-2025 21:38
+126,SKU100126,Push,Home,question,Ayers-Rivers,124.13,100.13,91,1,26-05-2025 06:21
+127,SKU100127,Culture,Sports,off,Scott Ltd,775.14,342.86,37,1,02-09-2022 05:31
+128,SKU100128,Fall,Electronics,surface,Larsen Group,176.63,145.19,271,1,12-01-2025 01:58
+129,SKU100129,Every,Sports,others,Bowman LLC,771.15,463.85,340,1,17-11-2020 01:27
+130,SKU100130,Professional,Clothing,magazine,Ramirez-Sanchez,268.58,200.02,189,1,25-05-2022 00:26
+131,SKU100131,Especially,Beauty,week,Long PLC,287.51,159.64,757,1,12-10-2021 13:23
+132,SKU100132,Even,Beauty,carry,"Spencer, Gray and Mays",601.6,454.93,292,1,05-04-2023 12:36
+133,SKU100133,Movie,Beauty,pressure,"Rodriguez, Brooks and Morales",372.26,163.36,817,1,19-03-2021 12:55
+134,SKU100134,Customer,Sports,look,Obrien Ltd,836.05,685.07,571,1,26-09-2022 12:01
+135,SKU100135,Less,Sports,professional,Jordan-Johnson,596.96,369.1,138,1,18-12-2024 07:52
+136,SKU100136,Ahead,Home,measure,"Vasquez, Cooper and Floyd",193.4,125.02,454,1,20-08-2023 07:06
+137,SKU100137,Quickly,Home,analysis,Miller LLC,395.22,215.94,319,1,08-06-2023 06:33
+138,SKU100138,Project,Electronics,involve,Allen Group,817.67,573.64,721,1,14-10-2020 00:37
+139,SKU100139,Left,Clothing,life,"Rowe, Avery and Brooks",284.91,200.62,447,1,25-07-2020 01:29
+140,SKU100140,Only,Home,blue,Payne-Wright,764.09,398.56,445,1,17-07-2024 15:15
+141,SKU100141,Computer,Home,effect,Fowler Group,194.38,94.48,333,1,13-02-2023 12:38
+142,SKU100142,Particularly,Home,generation,Sanchez-Tapia,388.46,252.75,836,1,04-06-2022 15:59
+143,SKU100143,Analysis,Home,firm,Carney-Hill,721.27,558.27,546,1,28-03-2023 18:16
+144,SKU100144,Level,Clothing,enough,Johnson-Hill,127.27,90.31,74,1,04-05-2023 10:06
+145,SKU100145,Attorney,Home,plan,Harrison PLC,577.76,322.51,891,0,24-10-2024 03:31
+146,SKU100146,Pressure,Sports,subject,"Montgomery, Rios and Barnett",365.22,169.32,347,1,01-12-2024 21:29
+147,SKU100147,Size,Electronics,avoid,Reynolds-Reyes,404.95,260.6,522,1,12-12-2023 04:43
+148,SKU100148,Sing,Home,important,Anthony-Mullins,648.99,413.09,713,1,29-10-2022 09:16
+149,SKU100149,Economic,Sports,my,Williamson-Kelly,160.57,69.42,192,1,06-08-2020 15:28
+150,SKU100150,Mind,Beauty,author,"Burke, Williamson and Yates",37.46,26.18,216,1,31-03-2025 18:21
+151,SKU100151,Task,Home,eye,"Harris, Palmer and West",936.62,683.72,155,1,15-05-2025 15:14
+152,SKU100152,Real,Home,civil,Walker-Lowe,162.57,83.13,899,1,21-09-2023 04:47
+153,SKU100153,This,Sports,kitchen,Perez Inc,451.58,366.75,449,1,02-09-2020 20:35
+154,SKU100154,Between,Beauty,girl,"Guzman, Mcbride and Ortiz",882.68,486.43,812,1,27-01-2023 17:07
+155,SKU100155,Indicate,Clothing,share,Williams Inc,128,87.75,780,1,02-04-2024 20:40
+156,SKU100156,Size,Sports,into,Hicks-Ward,969.68,667.21,770,1,17-02-2023 11:40
+157,SKU100157,Our,Clothing,born,Black-Wood,687.57,576.89,274,1,17-01-2023 15:39
+158,SKU100158,Since,Sports,picture,Johnson-Potter,197.91,85.66,500,1,14-09-2021 05:41
+159,SKU100159,Nature,Sports,impact,Wade-Huang,885.4,416.71,418,1,10-11-2021 14:49
+160,SKU100160,Responsibility,Electronics,despite,"Gonzales, Perry and Maxwell",710.77,477.35,931,1,20-03-2023 16:16
+161,SKU100161,Single,Sports,usually,"Anderson, Gray and Dean",233.76,161.79,661,1,07-10-2024 16:09
+162,SKU100162,Interview,Electronics,customer,"Brady, Neal and Chavez",764.44,316.7,406,1,07-07-2024 14:13
+163,SKU100163,Us,Electronics,each,Bryant Group,714.6,535.71,495,1,04-11-2022 08:10
+164,SKU100164,Real,Electronics,care,Webb Inc,19.74,10.06,937,1,05-01-2022 04:41
+165,SKU100165,Commercial,Home,race,"Diaz, Lewis and Butler",682.19,340.91,104,1,21-02-2021 10:37
+166,SKU100166,Understand,Electronics,others,"Decker, Scott and Mcdonald",796.51,556.87,524,1,30-11-2023 09:39
+167,SKU100167,Probably,Electronics,likely,Skinner Group,401.02,210.85,161,1,29-05-2021 14:16
+168,SKU100168,Adult,Electronics,official,Peterson and Sons,139.5,59.46,892,1,25-06-2023 09:46
+169,SKU100169,Know,Beauty,later,Fritz-Richard,503.23,390.73,659,1,30-11-2022 02:25
+170,SKU100170,Significant,Clothing,several,"Gillespie, Hunt and Hurst",955.26,413.04,282,1,02-02-2025 20:03
+171,SKU100171,World,Sports,American,"Singleton, Smith and Davis",669.81,340.56,557,1,30-04-2024 05:18
+172,SKU100172,Speech,Electronics,he,"Martinez, Garcia and Ortiz",362.68,185.23,880,1,01-04-2025 09:07
+173,SKU100173,Send,Sports,born,"Beard, Hall and Wilcox",804.45,329.56,793,1,20-01-2023 01:44
+174,SKU100174,Ok,Home,set,Fleming Group,502.61,392.39,732,1,23-01-2021 16:51
+175,SKU100175,Baby,Home,join,Diaz-Brewer,64.31,37.22,420,1,24-07-2024 16:23
+176,SKU100176,Suddenly,Clothing,site,Blanchard-Butler,654.76,500.49,883,0,27-02-2021 04:16
+177,SKU100177,Risk,Home,pull,Marshall-Mcgee,554.43,372.75,955,1,05-11-2024 06:18
+178,SKU100178,Pretty,Beauty,able,"Washington, George and Torres",340.21,233.81,713,1,24-04-2023 20:52
+179,SKU100179,Policy,Electronics,certain,Townsend Group,958.5,567.26,965,1,03-08-2024 09:57
+180,SKU100180,Mouth,Sports,image,"Anderson, Daugherty and Cox",248.49,104.22,128,1,19-09-2024 07:28
+181,SKU100181,Several,Clothing,party,Long-Black,531.72,220.62,887,1,07-09-2023 05:45
+182,SKU100182,Pay,Electronics,establish,Coleman PLC,615.48,407.37,404,1,12-06-2022 20:59
+183,SKU100183,Those,Electronics,military,"Fox, Norman and Gregory",617.05,392.17,577,0,29-05-2021 16:03
+184,SKU100184,Operation,Sports,key,Strickland-Johnson,480.23,268.55,543,1,11-01-2023 17:32
+185,SKU100185,Week,Beauty,letter,"Gregory, Hayes and Hicks",933.11,394.08,219,1,19-07-2023 14:11
+186,SKU100186,American,Home,author,Evans-Sanchez,97.48,56.16,116,1,13-11-2021 18:08
+187,SKU100187,Wall,Home,reason,Mitchell-Hill,445.31,223.42,55,1,16-09-2021 01:04
+188,SKU100188,Work,Clothing,source,Brown-Smith,973.79,425.78,772,1,25-08-2022 21:00
+189,SKU100189,Employee,Beauty,carry,Johnson Inc,22.8,15.47,915,0,27-11-2021 00:16
+190,SKU100190,Exist,Sports,care,James LLC,31.04,13.14,181,1,03-12-2023 05:34
+191,SKU100191,Process,Home,not,"Thompson, Diaz and Torres",44.37,17.89,667,1,22-03-2024 22:52
+192,SKU100192,Human,Clothing,goal,Ortega and Sons,494.98,312.41,914,1,30-05-2022 11:39
+193,SKU100193,Reflect,Beauty,when,Whitaker-Smith,625.58,451.87,630,1,04-08-2022 19:04
+194,SKU100194,Sit,Beauty,move,Graham and Sons,234.88,142.77,120,1,27-06-2022 16:09
+195,SKU100195,Give,Home,research,"Jones, Hopkins and Baker",939.59,440.39,177,1,20-06-2022 20:05
+196,SKU100196,Never,Clothing,accept,"Hunt, York and Sanchez",456.25,321.91,262,1,12-03-2024 12:27
+197,SKU100197,Like,Home,class,Perez Ltd,300.23,210.71,563,1,18-10-2022 16:53
+198,SKU100198,Phone,Clothing,task,Jenkins LLC,846.53,451.27,298,1,08-02-2023 05:37
+199,SKU100199,Born,Clothing,pretty,"Henderson, Arnold and James",89.89,57.68,369,1,09-07-2025 02:59
+200,SKU100200,How,Sports,lose,Berry-Williams,457.25,193.62,833,1,23-06-2021 12:44
+201,SKU100201,Successful,Clothing,pressure,Phillips Inc,831.02,397.36,771,1,11-03-2022 05:29
+202,SKU100202,Floor,Beauty,scene,Barber-Young,402.78,340,247,1,04-10-2023 12:04
+203,SKU100203,Write,Clothing,ahead,Martinez Inc,353.63,297.1,663,1,03-06-2023 07:29
+204,SKU100204,Especially,Home,usually,Sanchez Inc,832.42,458.9,552,1,18-02-2024 11:29
+205,SKU100205,Treatment,Sports,institution,Pollard-Campos,43.5,34.52,765,1,16-03-2025 19:56
+206,SKU100206,Rest,Home,act,Curtis-Turner,36.19,23.94,118,1,23-02-2021 11:46
+207,SKU100207,Lay,Electronics,street,Mcclure Ltd,149.09,101.91,812,1,25-02-2021 15:51
+208,SKU100208,Miss,Beauty,view,Hughes-Olson,365.76,243.01,2,1,09-12-2022 19:48
+209,SKU100209,Word,Clothing,whose,Chavez-King,213.43,95.94,689,1,01-11-2021 08:38
+210,SKU100210,Quickly,Electronics,our,Mathis Group,423.42,172.87,85,1,21-06-2025 15:05
+211,SKU100211,Amount,Home,stage,Dunlap PLC,35.84,28.64,943,1,27-09-2021 14:22
+212,SKU100212,Market,Sports,source,Norton Group,330.24,133.16,170,0,19-05-2024 14:45
+213,SKU100213,Cover,Beauty,of,"Murray, Leblanc and Phillips",810.41,463.92,212,1,15-10-2023 17:17
+214,SKU100214,Tree,Sports,none,"Roberts, Smith and Smith",390.8,204.91,408,1,26-06-2023 02:20
+215,SKU100215,Wear,Electronics,expect,Potter-Li,230.58,104.37,299,1,24-07-2024 10:56
+216,SKU100216,Dream,Electronics,successful,"Luna, Carlson and Henry",551.99,259.59,7,1,08-10-2020 08:11
+217,SKU100217,Growth,Beauty,item,Bender-Wade,90.29,54.35,813,1,11-01-2025 00:18
+218,SKU100218,Already,Clothing,about,Wolfe Ltd,319.85,260.54,47,1,17-11-2023 04:11
+219,SKU100219,Fall,Beauty,current,Calderon Group,114.58,80.17,370,1,21-01-2022 22:38
+220,SKU100220,Under,Electronics,professor,Williams-Petersen,78.23,62.83,5,1,14-02-2022 06:08
+221,SKU100221,Old,Sports,several,Carroll-Murphy,758.3,416.85,817,1,04-07-2021 02:19
+222,SKU100222,Stage,Sports,major,"Johnson, Holmes and Hernandez",639.5,301.07,231,1,02-10-2021 05:06
+223,SKU100223,Maintain,Sports,recent,"Garza, Carlson and Mcneil",372.23,227.93,244,1,28-05-2021 20:09
+224,SKU100224,Check,Electronics,body,Butler-Hicks,267.41,135.82,153,1,29-01-2022 13:44
+225,SKU100225,Always,Sports,adult,Mason LLC,807.25,676.22,490,0,22-02-2024 04:49
+226,SKU100226,Issue,Sports,fish,"Ward, Martin and White",59.05,34.63,22,1,31-03-2021 14:04
+227,SKU100227,Own,Clothing,these,Newton PLC,583.21,487.03,904,1,26-04-2024 14:57
+228,SKU100228,Common,Clothing,man,Sandoval Inc,446.58,194.94,593,1,12-10-2024 09:27
+229,SKU100229,These,Home,by,Aguilar-Johnson,473.46,295.57,154,1,24-02-2023 11:49
+230,SKU100230,List,Beauty,ground,Mccoy-Newton,498.51,352.46,867,1,23-05-2021 04:54
+231,SKU100231,Develop,Clothing,get,House-Matthews,695.63,490.39,167,1,18-03-2023 03:37
+232,SKU100232,Heart,Beauty,case,"Anderson, White and Williams",126.41,80.54,639,1,03-09-2022 09:36
+233,SKU100233,Position,Electronics,eye,Vega PLC,844.74,537.13,410,1,25-07-2024 18:38
+234,SKU100234,Message,Sports,his,Rogers-Lowe,556.07,284.8,994,1,12-07-2021 20:21
+235,SKU100235,Almost,Electronics,life,Johnson LLC,866.44,390.76,264,1,25-03-2022 07:18
+236,SKU100236,Three,Beauty,on,"Massey, Collier and Marshall",266.78,125.59,319,0,18-11-2024 13:08
+237,SKU100237,These,Sports,American,Barber-Hall,887.4,740.77,222,1,28-12-2024 05:25
+238,SKU100238,Job,Electronics,compare,"Gutierrez, Craig and Greer",674.43,331.65,945,1,17-09-2021 22:51
+239,SKU100239,Might,Clothing,hotel,Hale-Lozano,896.22,715.32,94,1,14-02-2022 07:53
+240,SKU100240,Together,Sports,opportunity,Watson-Raymond,922.45,652.24,611,1,21-12-2022 13:40
+241,SKU100241,Make,Electronics,them,Jordan-Wagner,905.17,491.39,555,1,12-12-2024 13:18
+242,SKU100242,Claim,Clothing,should,"Obrien, Rodriguez and Wright",741.58,298.27,7,1,04-04-2023 20:31
+243,SKU100243,Language,Sports,little,Esparza-Miller,651.28,493.52,412,1,13-11-2023 05:42
+244,SKU100244,Return,Electronics,allow,"Barton, Martinez and Wright",93.89,38.78,211,1,14-06-2022 07:01
+245,SKU100245,Same,Home,challenge,"Parsons, Smith and Perry",41.59,18.57,462,1,03-03-2021 07:42
+246,SKU100246,They,Beauty,entire,Campbell-Williams,225.55,99.4,646,1,15-08-2024 21:14
+247,SKU100247,Western,Home,develop,King-Bishop,92.41,43.71,987,1,07-02-2025 13:25
+248,SKU100248,Fly,Sports,cup,Castillo PLC,589.2,330.51,265,1,14-04-2024 18:19
+249,SKU100249,Child,Clothing,whom,Nolan LLC,68.33,29.29,297,1,15-04-2023 13:36
+250,SKU100250,Increase,Sports,voice,Parks LLC,782.24,567.33,566,1,02-04-2022 18:08
+251,SKU100251,Treatment,Electronics,daughter,Smith-Daugherty,152.81,81.13,431,1,19-06-2025 06:17
+252,SKU100252,Memory,Home,some,Johns-Foster,209.75,155.85,310,0,10-06-2025 05:53
+253,SKU100253,Idea,Electronics,Mrs,Ward-Butler,708.83,552.23,259,1,21-03-2022 17:08
+254,SKU100254,Traditional,Sports,his,"Prince, Lewis and Snow",475.66,378.12,965,1,06-10-2022 23:03
+255,SKU100255,Question,Home,very,May-Potter,278.38,205.67,129,1,22-02-2025 23:28
+256,SKU100256,Around,Clothing,support,Meza Ltd,843.74,582.1,129,1,29-01-2025 17:48
+257,SKU100257,Because,Beauty,consumer,"Franklin, Espinoza and Ballard",797.61,470.77,267,1,04-10-2021 03:16
+258,SKU100258,Now,Beauty,fight,"Cooke, Day and Fisher",228.19,174.11,828,1,03-06-2021 03:44
+259,SKU100259,Seat,Home,model,"Willis, Flores and Olsen",629.77,347.68,243,1,28-01-2023 07:44
+260,SKU100260,The,Home,from,"Hernandez, Ortiz and Leonard",691,397.95,66,1,22-11-2020 10:12
+261,SKU100261,Top,Clothing,last,"Mitchell, Smith and Hall",497.77,294.24,192,1,16-12-2021 03:42
+262,SKU100262,Language,Clothing,avoid,"Duran, Morris and Burnett",237.45,196.12,594,1,06-12-2020 23:33
+263,SKU100263,Themselves,Clothing,need,Johnson LLC,14.5,6.02,661,1,01-06-2025 23:59
+264,SKU100264,Drug,Home,option,Walton-Gonzalez,107.88,76.7,487,0,12-11-2023 18:13
+265,SKU100265,Piece,Home,kitchen,Smith Group,928.81,415.09,657,1,01-07-2024 15:30
+266,SKU100266,Take,Home,interview,"Schneider, Klein and Mcdonald",642.56,471.81,647,1,24-04-2021 08:29
+267,SKU100267,Go,Beauty,street,French Inc,685.18,565.9,612,1,17-09-2020 02:40
+268,SKU100268,Employee,Sports,side,Moran-Neal,50.29,31.06,590,1,08-03-2022 06:49
+269,SKU100269,Letter,Sports,environmental,Humphrey-Johnson,750.66,453.24,54,1,19-05-2021 21:33
+270,SKU100270,Serious,Electronics,phone,Garza LLC,801.72,510.78,280,1,06-02-2024 04:05
+271,SKU100271,Effort,Clothing,kid,"Owens, Graham and Carter",675.31,462.79,654,1,23-01-2022 19:42
+272,SKU100272,Return,Home,far,Jarvis-Lee,309.91,193.46,273,1,05-07-2025 23:30
+273,SKU100273,Lay,Beauty,hear,King-Barnes,374.26,259.91,480,1,28-06-2021 13:28
+274,SKU100274,Three,Electronics,fill,Cook-Schwartz,760.26,467.57,680,1,04-05-2025 05:00
+275,SKU100275,Discuss,Clothing,father,"Zimmerman, Nixon and Miller",772.91,363.5,856,1,03-05-2024 06:44
+276,SKU100276,Second,Sports,concern,Mason and Sons,667.43,519.78,816,1,11-02-2024 16:16
+277,SKU100277,Talk,Beauty,here,"Summers, Alexander and Martinez",53.54,45.11,219,1,29-11-2024 07:22
+278,SKU100278,Prepare,Beauty,improve,"Richards, Grant and Gonzalez",87.19,64.21,335,1,30-01-2023 11:18
+279,SKU100279,Its,Clothing,view,"Shields, Horton and Brown",559.22,398.97,659,1,05-11-2023 12:31
+280,SKU100280,Light,Electronics,prevent,Mccarty PLC,622.05,296.17,335,1,28-06-2022 05:18
+281,SKU100281,Effort,Beauty,human,Cooper-Warner,658.92,368.63,358,1,20-08-2021 15:40
+282,SKU100282,Method,Beauty,material,"Griffin, Torres and Sharp",572.66,358.48,273,1,01-07-2021 02:01
+283,SKU100283,Them,Electronics,two,"Page, Sanders and Garza",157.55,91.25,406,1,31-08-2023 15:55
+284,SKU100284,According,Home,value,Lane-Lopez,742.31,499.47,294,1,12-08-2022 10:04
+285,SKU100285,Whatever,Beauty,mind,"Phillips, Abbott and Evans",940.21,416.21,354,1,01-03-2024 23:36
+286,SKU100286,Design,Sports,summer,"Jones, Mckenzie and Hurley",40.06,28.46,181,1,26-11-2021 20:54
+287,SKU100287,Former,Beauty,begin,Guerrero Ltd,515.24,412.9,26,1,07-08-2023 04:15
+288,SKU100288,Foot,Electronics,partner,King LLC,535.08,391.18,403,1,17-09-2023 21:21
+289,SKU100289,Stay,Home,hot,Russell-Griffin,205.38,152.59,983,1,02-08-2022 06:50
+290,SKU100290,Each,Clothing,raise,Simpson-Aguilar,122.16,100.35,617,1,27-08-2022 03:07
+291,SKU100291,It,Home,suffer,"Greene, Trevino and Norman",556.64,417.66,214,1,13-12-2021 18:12
+292,SKU100292,Glass,Sports,ago,Mitchell PLC,85.9,47.09,510,1,09-04-2023 11:38
+293,SKU100293,Wear,Home,career,Watson and Sons,7.3,5.19,531,1,25-11-2024 10:55
+294,SKU100294,Third,Electronics,run,Warren LLC,943.16,755.81,434,1,04-06-2023 05:48
+295,SKU100295,Perhaps,Clothing,environmental,Peters-Johnson,463.19,209.48,94,1,27-09-2024 17:45
+296,SKU100296,Cost,Sports,many,Russell-Hill,792.2,493.99,193,1,23-06-2022 05:13
+297,SKU100297,Effort,Sports,expect,"Thomas, Pena and Smith",318.97,198.19,883,1,03-03-2024 12:13
+298,SKU100298,Go,Clothing,author,Martinez LLC,908.66,404.86,739,1,27-07-2021 18:17
+299,SKU100299,Thank,Sports,not,Green and Sons,611.16,295.38,608,1,15-05-2025 04:18
+300,SKU100300,Yes,Beauty,set,Jennings and Sons,483.74,217.86,466,1,13-05-2023 04:04
+301,SKU100301,Direction,Clothing,stock,Burns Ltd,710.36,376.04,51,0,22-09-2020 07:48
+302,SKU100302,Ask,Home,product,Wallace-Flores,664.2,563.49,679,0,25-09-2021 20:50
+303,SKU100303,Ground,Electronics,right,Wright LLC,794.62,398.74,884,1,03-10-2020 20:08
+304,SKU100304,Account,Beauty,coach,"Pierce, Simmons and Perry",367.32,260.83,503,1,30-12-2020 23:27
+305,SKU100305,Doctor,Home,debate,Castillo Group,801.72,575.44,404,1,05-06-2022 18:31
+306,SKU100306,Across,Sports,information,Nixon-Hatfield,784.78,486.45,599,1,21-05-2021 12:05
+307,SKU100307,These,Electronics,these,"Erickson, Rodriguez and Richardson",153.22,97.18,432,0,12-12-2020 15:41
+308,SKU100308,Ready,Beauty,range,Owens Ltd,785.95,339.65,152,1,14-07-2023 10:01
+309,SKU100309,Compare,Electronics,century,"Turner, Abbott and Taylor",324.02,144.48,245,1,06-02-2023 19:30
+310,SKU100310,Main,Clothing,quality,Moore Ltd,55.47,22.92,192,1,28-11-2022 15:01
+311,SKU100311,Attention,Clothing,study,Pena PLC,766.12,321.74,414,0,04-01-2025 14:37
+312,SKU100312,Man,Clothing,generation,"Carpenter, Walters and Foster",282.52,179.79,728,1,24-09-2024 15:25
+313,SKU100313,I,Home,imagine,Ritter-Norman,108.07,53.5,185,1,30-05-2025 10:14
+314,SKU100314,Cut,Sports,add,"Munoz, Bowen and Roberts",174.28,72.33,804,1,22-01-2021 02:24
+315,SKU100315,Glass,Sports,season,Bell Group,753.85,602.26,60,1,16-11-2024 14:46
+316,SKU100316,Change,Clothing,floor,"Berry, Peterson and Phillips",758.11,548.71,212,1,23-12-2022 19:34
+317,SKU100317,Debate,Electronics,as,Caldwell-Scott,834.6,427.19,539,0,10-12-2022 18:31
+318,SKU100318,Operation,Beauty,machine,Doyle LLC,564.05,337.2,210,1,05-11-2022 10:55
+319,SKU100319,Include,Electronics,focus,Espinoza Inc,173.61,87.04,434,1,23-11-2020 11:35
+320,SKU100320,Represent,Sports,people,Holt Ltd,741.9,358.79,665,1,08-01-2023 00:10
+321,SKU100321,Green,Beauty,identify,Mason PLC,11.49,9.74,214,1,02-08-2024 14:14
+322,SKU100322,Stock,Electronics,contain,Maynard PLC,375.51,255.75,947,1,02-07-2025 02:19
+323,SKU100323,Region,Beauty,fill,Williams and Sons,545.74,284.59,557,1,13-09-2020 11:48
+324,SKU100324,Newspaper,Electronics,right,Williams-Smith,773.75,395.28,202,1,08-10-2023 08:05
+325,SKU100325,Model,Home,however,"Lucas, Rose and Arnold",281.91,195.23,556,1,28-08-2023 18:53
+326,SKU100326,War,Electronics,need,"Clark, Davidson and Ward",227.22,112.24,687,1,26-06-2024 01:08
+327,SKU100327,Instead,Clothing,per,"Scott, Johnson and Anderson",270.25,128.66,320,1,12-09-2024 11:25
+328,SKU100328,Anything,Electronics,raise,Bradford-Miller,442.42,274.18,15,1,23-05-2021 06:39
+329,SKU100329,Condition,Beauty,matter,Hoover Inc,236.47,132.48,531,1,16-11-2024 16:21
+330,SKU100330,Memory,Electronics,well,"Trujillo, Wright and Roberts",208.44,108.12,683,1,30-03-2022 23:30
+331,SKU100331,Book,Home,recognize,Ferrell PLC,513.62,359.78,578,1,03-08-2021 22:47
+332,SKU100332,Mr,Electronics,agree,"Hood, Johnson and Evans",236.18,199.95,825,1,14-08-2022 05:50
+333,SKU100333,Four,Sports,foot,Brown PLC,730.51,468.06,492,1,30-10-2024 09:42
+334,SKU100334,Begin,Clothing,record,King-Flores,555.57,263.72,527,1,05-04-2025 22:01
+335,SKU100335,Edge,Clothing,born,Miller Ltd,357.34,217.63,436,1,30-09-2022 07:13
+336,SKU100336,Country,Home,white,"Bryant, Thomas and Drake",104.81,83.63,221,1,11-05-2021 07:38
+337,SKU100337,Glass,Sports,there,"Norman, Thomas and Patterson",449.02,182.87,426,1,29-03-2025 19:02
+338,SKU100338,Foot,Sports,officer,Thompson and Sons,495.95,342.25,218,1,07-10-2024 13:27
+339,SKU100339,Wall,Electronics,growth,Thomas-Lee,236.76,105.34,735,1,05-06-2022 06:35
+340,SKU100340,Stage,Beauty,others,Rose Ltd,97.83,43.73,340,1,04-02-2025 06:33
+341,SKU100341,Into,Sports,drive,Conner-Salazar,224.12,149.65,210,1,11-08-2020 07:40
+342,SKU100342,To,Electronics,front,Jones LLC,841.82,433.57,235,1,23-12-2021 14:28
+343,SKU100343,Music,Electronics,probably,Mitchell Group,624.66,523.24,792,1,03-10-2022 11:36
+344,SKU100344,Sit,Home,set,"Aguilar, Cook and Nelson",488.22,333.92,28,1,27-01-2025 10:10
+345,SKU100345,Face,Electronics,drug,"King, Hopkins and Gibson",811.7,536.79,917,1,02-06-2022 02:07
+346,SKU100346,I,Home,choice,Bowers and Sons,985.04,558.5,46,1,21-07-2020 18:30
+347,SKU100347,A,Clothing,activity,Schroeder Group,807.42,465.09,459,0,14-02-2022 09:57
+348,SKU100348,Mention,Beauty,away,Stephenson LLC,302.08,161.42,276,1,06-08-2024 21:58
+349,SKU100349,Buy,Clothing,sister,Hart PLC,247.62,139.18,62,1,07-09-2024 16:04
+350,SKU100350,Difficult,Beauty,new,Anderson-Taylor,945.3,733.09,676,1,05-12-2024 15:03
+351,SKU100351,Someone,Sports,official,Briggs Ltd,338.61,271.23,826,1,15-08-2024 17:20
+352,SKU100352,Happen,Home,interest,Foster-Peterson,443.95,304.59,24,1,24-10-2023 15:44
+353,SKU100353,Far,Electronics,knowledge,"Smith, Maldonado and Lopez",986.68,797.17,636,1,09-03-2025 17:11
+354,SKU100354,Safe,Beauty,author,Allen Group,550.99,384.4,23,1,04-10-2023 08:05
+355,SKU100355,Memory,Clothing,build,"Thomas, Pratt and Jimenez",317.21,266.1,11,1,13-04-2025 17:53
+356,SKU100356,Trial,Sports,address,Robinson and Sons,539.42,353.73,552,1,09-02-2022 14:04
+357,SKU100357,Down,Clothing,six,Bush-Burke,937.85,690.59,329,1,25-04-2025 04:06
+358,SKU100358,Military,Beauty,every,Barrett LLC,951.7,571.99,798,1,10-05-2021 17:44
+359,SKU100359,Everybody,Home,you,Grimes-Johnson,730.5,378.83,34,0,24-02-2022 10:53
+360,SKU100360,Figure,Clothing,top,Morgan-Curtis,264,215.67,925,1,14-07-2024 06:37
+361,SKU100361,Live,Clothing,offer,"Leonard, Morales and Booker",894.08,506.46,429,1,13-09-2021 01:51
+362,SKU100362,Join,Home,the,"Alexander, Dominguez and Lester",987.01,399.08,49,1,22-02-2023 16:57
+363,SKU100363,Paper,Clothing,senior,Mason PLC,396.59,247.59,615,1,26-02-2022 08:17
+364,SKU100364,End,Electronics,add,Lee-Leblanc,681.16,283.33,73,1,19-12-2024 06:21
+365,SKU100365,Health,Clothing,structure,Rice-Adams,261.21,178.26,894,1,04-11-2023 06:12
+366,SKU100366,Put,Sports,fall,Lam PLC,739.04,474.82,645,1,27-10-2020 17:39
+367,SKU100367,Sister,Clothing,strategy,Nicholson Inc,573.06,446.59,976,1,27-11-2022 13:46
+368,SKU100368,Clear,Electronics,course,"Abbott, Harris and Todd",312.78,161.34,13,1,14-06-2021 14:16
+369,SKU100369,Build,Sports,where,"Williams, Garcia and Mckenzie",297.33,121.94,260,1,31-07-2021 01:02
+370,SKU100370,Staff,Beauty,instead,Williams Ltd,255.66,155.41,810,1,06-05-2025 01:34
+371,SKU100371,Identify,Sports,drop,"Franklin, Deleon and Sandoval",733.14,469.92,359,1,19-04-2023 22:49
+372,SKU100372,Probably,Beauty,site,Russell LLC,409.26,215.65,594,1,28-09-2023 21:15
+373,SKU100373,Often,Home,writer,Cooper-Johnson,860.38,497.59,323,1,10-11-2023 21:42
+374,SKU100374,System,Beauty,operation,"Hall, Frazier and White",65.22,54.44,40,1,26-12-2022 17:17
+375,SKU100375,Forget,Electronics,again,Davis LLC,604.43,442.63,519,1,12-06-2022 05:45
+376,SKU100376,Song,Sports,technology,Hayes Ltd,669.25,299.85,361,1,16-09-2023 01:25
+377,SKU100377,Fill,Electronics,event,"Sanchez, Smith and Baker",659.59,281.61,376,1,28-06-2021 11:52
+378,SKU100378,Surface,Electronics,attack,Crawford PLC,603.65,325.2,346,1,24-12-2023 08:31
+379,SKU100379,Campaign,Electronics,deep,Bennett Ltd,442,343.51,794,1,22-03-2023 11:58
+380,SKU100380,Thousand,Clothing,fight,"Schultz, Carter and Williams",75.8,45.08,492,1,09-02-2021 07:26
+381,SKU100381,Six,Sports,person,Cook-Graham,486.77,362.55,899,1,09-02-2024 19:38
+382,SKU100382,Outside,Electronics,religious,Jackson and Sons,771.47,591.42,707,0,19-11-2022 03:33
+383,SKU100383,Office,Home,despite,Cline and Sons,232.56,179.15,124,1,30-04-2021 21:53
+384,SKU100384,Read,Clothing,sign,"Noble, Perez and Williams",404.99,172.55,314,0,07-04-2023 20:46
+385,SKU100385,Grow,Clothing,provide,"Coleman, King and Myers",104.14,65.55,284,1,07-11-2021 14:31
+386,SKU100386,That,Beauty,hundred,Brown-Huffman,422.32,238.38,621,1,10-01-2021 09:37
+387,SKU100387,Fine,Electronics,case,Berg Inc,184.11,130.25,964,1,10-11-2023 23:30
+388,SKU100388,Job,Electronics,start,Adkins Inc,231.79,145.75,887,1,17-09-2020 20:24
+389,SKU100389,Price,Sports,down,"Dunn, Jenkins and Graham",800.04,407.17,647,1,13-10-2024 20:53
+390,SKU100390,West,Clothing,new,Winters Group,942.02,666.27,785,1,01-03-2021 01:39
+391,SKU100391,Rock,Home,marriage,Ryan-Harper,713.82,547.97,799,1,14-07-2022 05:02
+392,SKU100392,Century,Beauty,candidate,Lopez Inc,749.43,409.25,94,1,06-07-2022 09:47
+393,SKU100393,Draw,Beauty,month,Smith Ltd,269.82,209.24,931,1,26-10-2023 10:59
+394,SKU100394,Traditional,Electronics,somebody,Rodriguez Ltd,992.49,405.94,588,1,17-04-2023 13:18
+395,SKU100395,Degree,Beauty,smile,Simmons-Hess,387.57,303.4,261,1,05-12-2020 20:13
+396,SKU100396,Development,Beauty,others,"Sanders, Miller and Mccarthy",238.45,199.52,158,1,22-05-2025 18:30
+397,SKU100397,Notice,Beauty,three,"Bruce, Garcia and Lane",292.75,214.78,506,1,13-02-2021 15:08
+398,SKU100398,According,Home,line,"Booker, Aguirre and Walker",645.8,396.82,489,1,21-09-2020 12:46
+399,SKU100399,Father,Sports,near,Harrison-Williams,640.41,488.31,822,1,23-10-2024 09:04
+400,SKU100400,Board,Sports,happy,Sanchez and Sons,574.31,468.84,543,1,27-05-2022 13:11
+401,SKU100401,You,Clothing,bill,"Good, Barber and Wise",251.99,197.92,114,1,29-05-2021 18:38
+402,SKU100402,Catch,Sports,process,"Kelley, Perry and Weber",855.73,517.34,129,1,13-05-2025 06:47
+403,SKU100403,Beat,Sports,agree,Malone LLC,573.79,308.68,826,1,29-07-2021 09:30
+404,SKU100404,State,Electronics,use,Gomez-Anderson,427.98,354.23,708,1,18-05-2021 02:49
+405,SKU100405,Pay,Clothing,speech,Hale PLC,590.39,395.93,167,1,24-08-2020 08:57
+406,SKU100406,Health,Beauty,how,"Smith, Meadows and King",256.85,142.33,215,1,23-03-2025 02:22
+407,SKU100407,Station,Electronics,remain,Gay Ltd,438.05,289.43,543,1,31-03-2023 09:58
+408,SKU100408,Third,Clothing,both,Morales-Douglas,423.36,332.68,588,1,05-02-2023 06:16
+409,SKU100409,Skill,Sports,conference,Richardson-Santiago,630.21,491.92,751,1,01-03-2023 12:01
+410,SKU100410,All,Sports,political,Johnson and Sons,797.52,582.32,496,1,09-10-2020 04:37
+411,SKU100411,Left,Sports,environment,"Miller, Hughes and Dalton",306.5,160.87,488,0,07-07-2022 11:32
+412,SKU100412,Report,Clothing,gun,"White, Mcgee and Barton",917.12,777.22,34,1,20-02-2022 20:41
+413,SKU100413,Style,Electronics,toward,"Thompson, Kane and Barnes",453.03,353.98,138,0,26-04-2024 20:28
+414,SKU100414,Camera,Electronics,speech,Tucker Ltd,996.04,734.52,368,1,05-03-2023 06:53
+415,SKU100415,Not,Electronics,though,Wilson-Sims,285.69,193.69,655,1,31-03-2024 04:52
+416,SKU100416,Pm,Beauty,his,Weaver Inc,622.81,423.72,328,1,23-11-2022 22:54
+417,SKU100417,Politics,Home,model,Carlson-Stokes,327.15,185.36,502,1,11-12-2021 01:56
+418,SKU100418,Sure,Beauty,fall,"Gomez, Love and Brooks",906.92,743.86,275,1,20-02-2025 01:01
+419,SKU100419,Central,Sports,several,Ellis LLC,733.9,527.88,399,1,30-04-2022 13:49
+420,SKU100420,Candidate,Home,strong,Wang-Ellison,939.83,660.61,247,1,11-01-2022 07:55
+421,SKU100421,Scientist,Electronics,country,"Jones, Banks and Lopez",691.4,578.84,725,1,16-06-2025 13:49
+422,SKU100422,Determine,Clothing,turn,Hood Group,337.29,286.65,974,1,17-12-2024 03:53
+423,SKU100423,Sell,Sports,just,"Thomas, Estrada and Madden",14.82,8.92,950,1,29-04-2023 20:20
+424,SKU100424,None,Home,cause,"Meyer, Ruiz and Hart",135.09,92.03,486,1,10-05-2024 23:15
+425,SKU100425,Reveal,Beauty,avoid,"Jenkins, Ortiz and Hale",330.35,207.59,509,1,13-10-2024 07:29
+426,SKU100426,None,Clothing,worker,Rios PLC,718.8,475.47,861,1,26-04-2022 11:50
+427,SKU100427,None,Sports,technology,Mendoza-Mcbride,161.8,128.89,836,1,15-04-2024 09:07
+428,SKU100428,Look,Beauty,will,Murphy LLC,238.58,194.75,553,1,02-06-2024 19:26
+429,SKU100429,He,Sports,our,"Taylor, Edwards and Joseph",638.04,478.56,697,1,13-12-2024 16:52
+430,SKU100430,Democrat,Beauty,history,Castillo and Sons,267.88,127.94,985,1,22-01-2021 02:10
+431,SKU100431,Politics,Clothing,couple,Wiggins Inc,988.22,482.69,47,1,18-01-2022 03:54
+432,SKU100432,Energy,Electronics,summer,Mcmahon-Gonzalez,484.54,375.02,442,1,18-03-2024 20:12
+433,SKU100433,Five,Sports,risk,Nelson-Smith,480.81,380.71,697,1,11-07-2022 00:56
+434,SKU100434,Bar,Sports,west,Tran and Sons,143.87,89.33,294,1,09-03-2021 03:58
+435,SKU100435,Good,Home,account,"Hernandez, Gray and Murphy",69.31,31.21,967,1,03-09-2022 21:19
+436,SKU100436,Allow,Sports,dinner,Davis-Cox,584.03,239.32,822,1,23-04-2022 16:58
+437,SKU100437,Reason,Electronics,term,Newman Inc,609.35,338.14,397,1,01-11-2020 01:50
+438,SKU100438,Just,Beauty,even,"Landry, Garcia and Haney",351.94,237.87,63,1,14-09-2021 08:02
+439,SKU100439,Image,Sports,career,"Golden, Thomas and Silva",512.08,252.8,685,1,09-02-2022 16:02
+440,SKU100440,Pull,Clothing,popular,"Collins, Juarez and Nelson",526.27,257.09,844,1,18-03-2023 09:51
+441,SKU100441,Before,Sports,newspaper,Holmes-Hill,23.29,11.5,306,1,30-12-2024 12:49
+442,SKU100442,Job,Home,try,Smith-Chang,832.05,494.64,776,1,16-11-2023 04:33
+443,SKU100443,Myself,Electronics,forget,Warren Group,625.4,277.65,92,1,12-09-2021 15:34
+444,SKU100444,Remain,Beauty,before,"Jones, Johnson and Kelley",674.38,463.58,627,1,02-10-2021 13:14
+445,SKU100445,Fire,Clothing,minute,Wu-Young,646.64,309.45,430,1,15-06-2023 02:10
+446,SKU100446,Social,Electronics,skill,Acosta-Williams,44.23,19.05,555,1,10-04-2022 14:29
+447,SKU100447,Perhaps,Electronics,ball,Randolph Ltd,464.84,311.35,269,1,14-11-2021 07:47
+448,SKU100448,Over,Electronics,success,Solis and Sons,360.44,200.76,669,1,30-05-2025 04:05
+449,SKU100449,Maintain,Beauty,those,"Barnes, Reyes and Garcia",810.67,625.74,833,1,14-07-2021 07:03
+450,SKU100450,Paper,Beauty,accept,"Lewis, Walker and Bailey",981.47,831.06,974,1,26-12-2022 00:59
+451,SKU100451,Claim,Beauty,goal,Gould-Jimenez,435.06,258.74,259,1,24-08-2023 11:41
+452,SKU100452,Where,Home,center,Bray-Pacheco,576.09,470.8,571,1,26-10-2020 11:58
+453,SKU100453,Toward,Clothing,list,Williams and Sons,722.41,405.1,907,1,20-12-2020 21:49
+454,SKU100454,Energy,Sports,trial,Booth-Soto,503.4,288.55,736,1,06-02-2024 12:15
+455,SKU100455,Shake,Clothing,myself,Martinez Group,309.96,200.68,54,1,07-02-2021 13:44
+456,SKU100456,Wrong,Home,hospital,Long-Allison,14.68,12.35,895,1,11-05-2024 21:00
+457,SKU100457,Different,Electronics,benefit,Porter-Graves,791.39,560.07,464,1,16-09-2021 22:00
+458,SKU100458,Talk,Clothing,similar,Bell-Nunez,814.95,473.05,47,1,13-03-2024 12:53
+459,SKU100459,Subject,Sports,game,Cain Group,333.36,163.03,454,1,15-02-2022 16:08
+460,SKU100460,Do,Clothing,public,Saunders-Lee,149.96,118.15,691,1,07-10-2022 08:11
+461,SKU100461,Someone,Home,product,Gonzalez Group,513.47,365.05,404,0,21-07-2022 13:57
+462,SKU100462,Pretty,Sports,book,"Thompson, Harris and Tate",720.1,535.06,603,1,03-10-2024 09:09
+463,SKU100463,Prove,Beauty,car,Savage and Sons,735.13,585.06,583,1,01-02-2022 20:05
+464,SKU100464,Sure,Home,explain,"Washington, Ramos and Walker",861.31,375.24,875,1,13-09-2021 09:03
+465,SKU100465,Seat,Sports,fast,Taylor Ltd,439.02,208.35,491,1,31-01-2023 05:47
+466,SKU100466,Person,Beauty,leader,Norton PLC,789.51,452.07,85,1,22-09-2023 15:34
+467,SKU100467,Wrong,Home,chair,"Young, Martin and Murphy",22.92,13.08,611,1,22-05-2024 08:06
+468,SKU100468,Me,Clothing,to,"Cummings, Brown and Morton",622.33,471.4,187,1,10-03-2024 22:18
+469,SKU100469,Pretty,Sports,new,Garcia-Bennett,285.29,209.59,225,1,26-02-2021 12:57
+470,SKU100470,News,Clothing,family,"Bennett, Fischer and Martinez",516.22,239.18,20,1,15-09-2021 01:01
+471,SKU100471,Collection,Electronics,box,Hall-Hall,705.84,284.86,580,1,06-11-2022 12:36
+472,SKU100472,Left,Home,establish,Castillo Inc,597.17,455.05,805,1,15-02-2022 00:15
+473,SKU100473,Participant,Home,decade,Clark and Sons,459.11,387.84,432,1,24-09-2023 18:47
+474,SKU100474,Decision,Beauty,play,Glover and Sons,531.46,236.43,405,1,03-10-2021 18:34
+475,SKU100475,Provide,Beauty,catch,Garcia PLC,360.82,149.19,214,1,08-03-2023 03:38
+476,SKU100476,Upon,Electronics,say,Cruz Group,903.13,630.18,903,1,18-06-2021 04:27
+477,SKU100477,Technology,Sports,officer,Richardson Ltd,326.68,175.09,453,1,15-06-2025 02:12
+478,SKU100478,Pay,Home,rest,Diaz-Manning,954.62,421.21,488,1,23-03-2023 21:00
+479,SKU100479,Entire,Electronics,take,Moore-Miller,51.09,36.47,680,1,21-12-2021 19:12
+480,SKU100480,Question,Sports,say,Summers-Sanchez,278.86,135.46,368,1,28-01-2023 23:04
+481,SKU100481,Explain,Home,sense,"Hayes, Ray and Quinn",32.63,20.39,6,1,27-05-2021 20:20
+482,SKU100482,Attack,Sports,let,Thompson-Black,108.14,88.67,218,1,16-12-2022 14:05
+483,SKU100483,Fill,Electronics,weight,Collins Ltd,239.87,160.23,85,1,22-04-2025 16:10
+484,SKU100484,Manage,Clothing,senior,Montgomery-Parker,875.38,388.64,579,1,05-10-2024 09:50
+485,SKU100485,Pass,Beauty,name,Chapman LLC,160.7,124.09,631,1,17-08-2021 01:20
+486,SKU100486,Risk,Clothing,direction,Coleman and Sons,919.74,433.82,15,0,04-09-2022 06:14
+487,SKU100487,Also,Sports,for,Graham-Wright,418.85,206.88,342,1,30-08-2021 02:34
+488,SKU100488,Character,Sports,data,Leblanc Inc,694,410.75,54,1,14-05-2023 21:13
+489,SKU100489,Market,Clothing,their,Thomas-Barnes,652.08,511.77,255,1,01-07-2021 22:39
+490,SKU100490,Firm,Sports,boy,"Jacobson, Burnett and Wright",723.26,560.92,85,1,09-02-2023 19:07
+491,SKU100491,Mind,Electronics,large,Leonard Ltd,559.33,438.54,979,1,10-02-2022 12:15
+492,SKU100492,Cold,Home,stock,Velazquez Ltd,57.33,46,944,1,03-04-2023 09:15
+493,SKU100493,Help,Beauty,over,Watson PLC,116.94,96.44,990,1,17-07-2023 04:09
+494,SKU100494,Reflect,Sports,threat,Miranda-Rice,962.28,736.83,59,1,13-07-2022 01:28
+495,SKU100495,Loss,Home,a,Blanchard-Alvarez,155.35,90.54,818,1,21-11-2024 11:42
+496,SKU100496,Natural,Sports,guy,"Douglas, Beck and Owens",863.1,654.67,496,1,14-09-2020 21:46
+497,SKU100497,Read,Clothing,south,Edwards PLC,420.05,328.19,934,1,15-09-2021 03:36
+498,SKU100498,Finally,Clothing,know,"Bishop, Lopez and Wise",891.5,507.45,483,1,31-08-2020 11:59
+499,SKU100499,Scientist,Clothing,size,"Gonzalez, Smith and Glass",838.21,399.08,410,1,12-02-2025 14:37
+500,SKU100500,Staff,Clothing,stop,Fleming LLC,758.34,435.33,678,1,18-01-2022 21:05
+501,SKU100501,As,Sports,time,Young PLC,502.73,372.32,345,1,23-04-2022 07:37
+502,SKU100502,North,Home,onto,"Valdez, Pierce and Wolfe",880.41,644.84,510,1,16-03-2022 09:57
+503,SKU100503,Able,Beauty,vote,"Smith, Flores and Hill",113.82,51.46,571,1,25-12-2022 12:11
+504,SKU100504,He,Beauty,sell,James-Charles,101.65,43.2,21,1,20-03-2024 09:00
+505,SKU100505,On,Clothing,they,Larson-Lopez,569.68,399.93,362,1,05-04-2025 13:23
+506,SKU100506,Citizen,Sports,usually,Molina Group,46.83,22.32,755,1,28-04-2025 14:49
+507,SKU100507,Miss,Electronics,enjoy,"Daniel, Golden and Duarte",851.03,465.3,268,1,23-06-2022 10:56
+508,SKU100508,Study,Clothing,great,Peterson Ltd,293.24,236.36,764,1,12-12-2020 03:52
+509,SKU100509,Matter,Home,Democrat,Turner Ltd,973.06,503.32,766,1,25-07-2024 07:26
+510,SKU100510,Story,Beauty,street,Smith-Baker,792.02,323.5,62,1,20-06-2025 23:55
+511,SKU100511,Main,Electronics,including,Morton and Sons,848.81,364.27,232,1,20-04-2022 04:07
+512,SKU100512,Power,Home,parent,"Brown, Jensen and Johnson",514.24,301.74,420,1,25-11-2022 23:48
+513,SKU100513,House,Sports,along,Smith-Young,878.38,725.82,44,1,02-08-2020 00:23
+514,SKU100514,Through,Beauty,all,Johnson-Ray,258.51,151.21,681,1,24-10-2021 22:37
+515,SKU100515,Word,Electronics,education,Lopez PLC,298.34,236.69,455,0,23-05-2025 16:55
+516,SKU100516,Street,Electronics,admit,"French, Miranda and Colon",661.17,287.85,45,1,05-02-2022 13:27
+517,SKU100517,Collection,Sports,reduce,Jackson-Houston,82.42,42.78,368,1,26-04-2022 12:44
+518,SKU100518,Exactly,Beauty,serious,Suarez Group,158.39,129.78,766,1,29-06-2021 12:00
+519,SKU100519,Contain,Electronics,president,Burns Ltd,470.19,275.06,699,1,10-05-2022 09:17
+520,SKU100520,Team,Electronics,executive,Carter Group,255.32,201.57,330,1,07-04-2021 13:48
+521,SKU100521,Everyone,Electronics,song,"Cameron, Clayton and Curtis",797.55,474.21,704,1,23-09-2023 14:49
+522,SKU100522,Former,Electronics,war,"Green, Ibarra and Ramirez",459.87,340.76,727,1,01-04-2022 12:34
+523,SKU100523,Spend,Sports,college,Johnson-Dalton,881.17,354.63,934,1,02-06-2023 23:36
+524,SKU100524,Major,Clothing,attorney,"Medina, Murphy and Mendez",254.17,159.65,371,1,02-03-2021 15:09
+525,SKU100525,Natural,Sports,eight,Wood PLC,107.13,72.99,493,1,19-10-2023 08:48
+526,SKU100526,Hit,Electronics,exist,Robinson Group,436.3,270.35,618,1,16-04-2023 18:16
+527,SKU100527,Send,Home,practice,Chung Ltd,799.39,383.38,306,1,26-11-2021 18:34
+528,SKU100528,Election,Beauty,world,Cruz PLC,121.73,59.94,814,1,24-08-2022 21:58
+529,SKU100529,Century,Home,play,Howard-Santiago,365.57,220.66,763,1,15-05-2025 19:20
+530,SKU100530,Hair,Sports,set,"Barker, Duffy and Johnson",487.85,243.89,976,1,25-06-2021 16:48
+531,SKU100531,Impact,Electronics,week,Watson-James,912.03,479.89,916,1,26-09-2020 20:12
+532,SKU100532,Professional,Electronics,magazine,Garcia LLC,578.35,275.73,353,1,01-01-2024 02:00
+533,SKU100533,Find,Sports,station,Bright-Hunter,809.37,618.08,643,1,16-02-2023 22:51
+534,SKU100534,Say,Beauty,yes,"Contreras, Rios and Brady",394.12,287.92,881,1,28-05-2022 08:36
+535,SKU100535,Focus,Home,scene,"Mendoza, Hudson and Johnson",95.15,66.8,350,1,14-03-2024 20:05
+536,SKU100536,Record,Home,actually,Robinson-Palmer,798.61,341.3,424,1,05-08-2021 07:56
+537,SKU100537,Institution,Electronics,size,Morgan-Mendoza,19.48,12.7,152,1,21-12-2024 10:48
+538,SKU100538,Usually,Electronics,avoid,Anderson Group,824.68,344.15,870,1,05-09-2022 19:20
+539,SKU100539,Form,Sports,rate,Martinez PLC,650.69,470.42,735,1,04-06-2022 21:07
+540,SKU100540,Safe,Clothing,else,"Daniels, Bruce and Hicks",66.96,53.95,633,1,30-03-2025 01:34
+541,SKU100541,Magazine,Electronics,receive,"Park, Hernandez and Delacruz",883.46,395.37,400,1,06-10-2024 13:31
+542,SKU100542,Floor,Sports,bag,Cruz PLC,381.89,165.97,155,0,02-08-2020 15:23
+543,SKU100543,West,Clothing,development,"Medina, Miller and Jennings",408.84,311.67,554,1,30-05-2022 04:35
+544,SKU100544,Painting,Sports,simply,Garza Group,924.07,679.93,876,0,10-02-2023 01:17
+545,SKU100545,Language,Sports,store,Larson LLC,137.09,77.03,525,1,06-02-2022 08:56
+546,SKU100546,Message,Beauty,seek,Mejia Group,926.5,708.05,151,1,03-12-2020 13:03
+547,SKU100547,Herself,Beauty,your,Patton and Sons,873.73,490.87,967,1,29-01-2024 23:33
+548,SKU100548,Start,Beauty,trouble,Kim-Jacobs,390.27,203.22,449,1,11-03-2023 11:43
+549,SKU100549,Hospital,Beauty,consider,Holmes PLC,931.79,716.29,509,1,04-07-2023 00:16
+550,SKU100550,Score,Home,first,Simmons-Perez,818.14,524.52,651,1,25-02-2024 16:06
+551,SKU100551,House,Electronics,wait,Weeks-Estrada,892.57,660.15,655,1,30-07-2023 06:18
+552,SKU100552,Reduce,Beauty,or,"Rubio, Green and Coleman",392.56,252.4,294,0,22-09-2023 12:42
+553,SKU100553,Each,Beauty,car,Hoffman Ltd,967.82,492.02,236,0,23-07-2020 10:13
+554,SKU100554,Them,Electronics,development,Nguyen-Gibson,757.69,397.4,230,1,06-09-2024 00:19
+555,SKU100555,Avoid,Sports,use,"Sutton, Proctor and Miller",316.61,219.27,1,1,11-12-2024 07:28
+556,SKU100556,Main,Sports,save,Larsen Ltd,611.17,478.95,908,1,12-10-2020 20:24
+557,SKU100557,Budget,Home,player,Rice and Sons,279.54,220.28,481,1,17-10-2022 16:11
+558,SKU100558,Paper,Sports,our,Hernandez Group,797.82,421.31,904,1,11-05-2023 22:03
+559,SKU100559,Change,Clothing,prove,"Castro, Price and Mendoza",55.68,43.08,765,1,07-05-2022 20:56
+560,SKU100560,Interest,Electronics,wind,Sanchez Ltd,246.37,127.68,129,1,06-12-2021 12:21
+561,SKU100561,Enough,Sports,decision,Brown Inc,532.12,218.5,435,1,17-05-2021 14:34
+562,SKU100562,Represent,Electronics,age,Rodriguez-Williams,118.01,57.19,328,1,15-01-2021 17:10
+563,SKU100563,Out,Electronics,suffer,Peterson LLC,796.1,639.82,916,1,03-12-2022 08:18
+564,SKU100564,Interesting,Sports,doctor,Rivera-Moss,927.97,508.06,336,1,29-11-2020 14:30
+565,SKU100565,Contain,Electronics,rule,"Carlson, Jones and Hicks",213.7,137.61,554,1,06-02-2023 16:16
+566,SKU100566,Deal,Home,team,Evans-Miller,487.29,200.26,522,1,01-03-2022 18:45
+567,SKU100567,Keep,Home,approach,"Mendez, Pierce and Hoffman",328.88,131.95,352,1,01-10-2020 04:34
+568,SKU100568,Bag,Home,ask,Stout-Thomas,187.87,106.47,985,1,28-08-2022 03:37
+569,SKU100569,Probably,Electronics,western,"Russell, Ray and Yang",77.6,60.45,119,1,02-05-2022 21:52
+570,SKU100570,Ready,Electronics,happen,Parsons-Ford,161.22,98.45,820,1,29-04-2021 02:48
+571,SKU100571,Kitchen,Clothing,spring,Franklin-Perez,512.59,360.16,13,1,20-10-2023 21:36
+572,SKU100572,City,Beauty,seem,Watson Inc,126.47,106.55,764,1,13-03-2023 16:40
+573,SKU100573,Green,Electronics,water,Fisher-Atkinson,877.85,602.03,525,1,30-06-2023 20:48
+574,SKU100574,Mention,Electronics,usually,Sullivan-Joseph,749.91,577.26,130,1,27-08-2021 19:40
+575,SKU100575,Weight,Sports,far,Burton Inc,714.62,551.09,264,1,13-04-2024 18:00
+576,SKU100576,Wear,Clothing,exist,Gonzalez-Mcdonald,46.51,24.36,69,1,06-01-2021 08:20
+577,SKU100577,Under,Home,probably,Sanchez-Robinson,582.57,472.69,221,1,16-02-2025 10:10
+578,SKU100578,Bank,Beauty,often,Simmons Inc,158.25,92.3,148,1,19-05-2022 14:55
+579,SKU100579,Last,Beauty,have,Ramirez Group,385.76,253.55,271,1,21-03-2024 21:49
+580,SKU100580,Major,Home,yeah,"Best, Reed and Edwards",513.37,398.79,43,1,22-01-2025 15:04
+581,SKU100581,Those,Home,product,Kaufman PLC,155.1,87.84,617,1,05-01-2025 06:07
+582,SKU100582,Mission,Home,fine,"Young, Harris and Sanders",978.87,553.19,421,1,04-04-2022 08:00
+583,SKU100583,Around,Electronics,result,Rivera LLC,441.74,206.26,208,1,29-03-2025 18:25
+584,SKU100584,Around,Electronics,argue,Jones Group,611.7,326.45,140,1,10-10-2024 23:47
+585,SKU100585,A,Beauty,audience,Brown and Sons,537.53,411.93,227,1,19-05-2023 19:54
+586,SKU100586,Strategy,Home,chance,West-Conrad,392.42,207.68,441,1,14-02-2025 21:37
+587,SKU100587,Figure,Home,college,"Brooks, Turner and Heath",968.08,539.68,86,1,23-02-2024 17:50
+588,SKU100588,Price,Beauty,woman,Raymond-Garrett,901.62,753.69,998,1,16-01-2025 17:57
+589,SKU100589,Carry,Electronics,guess,Thompson Ltd,375.97,221.57,376,1,13-08-2023 13:15
+590,SKU100590,Fly,Electronics,left,Brown and Sons,545.33,296.56,938,1,17-09-2022 22:13
+591,SKU100591,View,Electronics,notice,"Callahan, Haynes and Hooper",702.73,530.84,546,1,13-11-2020 15:35
+592,SKU100592,Middle,Sports,contain,"Williams, Marshall and Wright",552.84,340.28,799,1,23-07-2023 21:53
+593,SKU100593,Poor,Home,remain,Johnson and Sons,975.85,723.93,203,1,31-01-2025 11:02
+594,SKU100594,Water,Home,arm,Velasquez-Guerrero,159.88,123.29,832,1,19-12-2023 16:35
+595,SKU100595,Member,Home,world,Huerta-Thompson,520.56,356.12,106,1,15-06-2025 22:18
+596,SKU100596,Against,Clothing,make,Higgins and Sons,389.65,290.61,27,1,17-10-2022 01:05
+597,SKU100597,Bar,Electronics,win,Wade-Gutierrez,715.14,335.47,264,1,08-09-2022 15:51
+598,SKU100598,Response,Beauty,hair,Shaffer Group,779.32,397.7,938,1,16-08-2021 00:53
+599,SKU100599,Read,Sports,south,Alvarez PLC,382.64,241.75,41,1,23-04-2021 06:43
+600,SKU100600,Organization,Home,management,"Thompson, Howell and Cox",654.06,376.03,475,1,15-03-2022 19:48
+601,SKU100601,Might,Sports,feel,Thomas and Sons,735.02,494.44,207,1,03-09-2023 13:17
+602,SKU100602,Sometimes,Sports,despite,"Lloyd, Little and Velasquez",33.8,16.64,198,1,05-03-2022 13:32
+603,SKU100603,Smile,Home,product,"Wilkerson, Hodges and Wiley",843.92,631.74,206,1,25-05-2023 20:24
+604,SKU100604,Upon,Electronics,forget,"Butler, Mcdaniel and Thompson",855.17,559.2,95,1,09-10-2020 12:45
+605,SKU100605,Ago,Clothing,foot,"Chambers, Hall and Hayes",993.2,639.52,475,1,31-08-2020 11:32
+606,SKU100606,Fine,Electronics,far,Henderson-Herrera,632.75,385.99,536,1,17-05-2023 06:49
+607,SKU100607,Factor,Beauty,future,Jackson-Arnold,399.19,178.41,519,1,04-08-2020 19:55
+608,SKU100608,Charge,Sports,official,Diaz PLC,876.88,609.66,859,1,21-09-2022 00:46
+609,SKU100609,History,Home,simply,Morrow PLC,463.09,379.98,517,1,31-07-2023 02:12
+610,SKU100610,Particularly,Beauty,office,Richards-Galvan,72.68,42.93,396,1,06-12-2023 05:40
+611,SKU100611,Sell,Sports,pull,Martinez LLC,381.51,304.41,874,1,21-02-2023 07:42
+612,SKU100612,Employee,Home,garden,"Johnson, Mann and Hall",682.53,433.82,498,1,01-03-2025 11:15
+613,SKU100613,Parent,Clothing,with,"Fox, Campbell and Smith",315.02,248.71,175,1,11-10-2022 07:33
+614,SKU100614,Class,Electronics,indeed,"Ortega, Luna and Mitchell",269.93,147.15,432,1,07-08-2022 00:46
+615,SKU100615,Now,Home,TV,Brooks-Roman,79.7,48,160,1,20-10-2023 11:17
+616,SKU100616,Suggest,Sports,six,"Fuller, Jenkins and Stewart",105.36,71.12,619,1,23-05-2025 22:43
+617,SKU100617,Across,Electronics,partner,"Ramirez, Lopez and Dominguez",220.86,92.45,543,1,13-08-2022 07:45
+618,SKU100618,Drug,Beauty,science,Bishop-Jackson,560.97,225.49,936,1,15-02-2021 08:15
+619,SKU100619,Win,Beauty,discover,Carroll-Higgins,885.61,457.25,466,1,19-02-2025 13:16
+620,SKU100620,Us,Clothing,soon,Harris-Armstrong,49.3,37.91,918,1,03-04-2024 05:32
+621,SKU100621,Pull,Clothing,big,Allen Inc,250.45,128.92,552,1,05-12-2021 13:05
+622,SKU100622,International,Home,wind,Johnson-Summers,693.59,563.33,396,1,16-12-2024 08:36
+623,SKU100623,Somebody,Beauty,reach,Rodriguez-Gomez,104.46,45.09,704,1,05-06-2025 13:56
+624,SKU100624,Say,Sports,director,Johnson Inc,704.72,519,304,1,27-05-2021 15:39
+625,SKU100625,Benefit,Beauty,former,Mitchell-Orr,922.29,620.36,487,1,01-04-2023 02:25
+626,SKU100626,Hope,Beauty,sure,Brown PLC,307.17,211.38,510,1,27-04-2021 03:25
+627,SKU100627,Offer,Sports,begin,Bartlett PLC,13.57,9.72,536,1,20-06-2022 22:15
+628,SKU100628,Himself,Home,simply,Dougherty Group,975.75,731.01,449,1,30-11-2024 09:55
+629,SKU100629,Professor,Beauty,treat,Beard Group,421.18,334.66,540,1,16-05-2023 19:51
+630,SKU100630,President,Clothing,society,"Lee, Brown and Smith",290.89,233.56,805,0,20-02-2023 07:40
+631,SKU100631,Wonder,Electronics,feeling,Freeman-Roach,489.18,404.9,240,1,28-05-2025 23:36
+632,SKU100632,Practice,Clothing,trip,"Rowe, Clark and Weaver",442.41,319.19,838,1,05-02-2021 19:28
+633,SKU100633,Mission,Clothing,study,"Hayes, Rodriguez and Santana",970.61,755.45,397,0,19-12-2020 05:44
+634,SKU100634,Know,Clothing,official,Vasquez-Castillo,273.75,182.7,988,1,25-04-2025 20:45
+635,SKU100635,Away,Sports,thousand,Carter Ltd,250.02,193.96,999,1,21-10-2020 19:17
+636,SKU100636,Relationship,Electronics,during,Curtis-Ross,452.34,327.99,360,1,11-03-2025 14:29
+637,SKU100637,Change,Home,probably,Bentley and Sons,618.58,361.14,32,1,13-08-2023 11:25
+638,SKU100638,Not,Sports,leave,"Castillo, Young and Robinson",825.79,672.78,533,1,25-10-2022 07:52
+639,SKU100639,Southern,Electronics,ask,"Butler, Pratt and Gonzalez",915.92,470.67,782,1,19-10-2021 12:18
+640,SKU100640,Young,Sports,reveal,Sullivan Ltd,445.01,236.94,142,1,02-10-2020 10:58
+641,SKU100641,Thing,Clothing,receive,"Romero, Lewis and Parker",616.39,381.3,862,1,21-01-2023 03:40
+642,SKU100642,Physical,Clothing,what,Carter Group,632.97,343.22,679,1,28-03-2021 05:26
+643,SKU100643,Son,Sports,likely,Moore LLC,153.94,84.72,411,1,12-07-2025 15:41
+644,SKU100644,Agency,Electronics,service,Blake Group,612.08,402.53,474,1,19-03-2025 01:13
+645,SKU100645,Must,Beauty,player,Johnson Group,982.76,578.86,277,1,01-10-2022 22:42
+646,SKU100646,Friend,Clothing,move,Price Group,667.88,296.87,106,1,22-12-2023 18:34
+647,SKU100647,Consumer,Home,product,Salazar Ltd,167.82,121.3,570,1,27-11-2021 19:11
+648,SKU100648,Military,Home,blue,Spence Group,539.86,269.06,630,1,07-02-2025 17:42
+649,SKU100649,Mother,Beauty,tonight,Ferguson-Johnson,206.87,132.68,537,1,01-05-2025 15:20
+650,SKU100650,Per,Clothing,seem,Proctor-Woods,159.36,110.13,433,1,26-04-2024 14:02
+651,SKU100651,Tree,Sports,trade,"Boyd, Hall and Stevens",740.94,358.63,914,1,08-10-2022 02:09
+652,SKU100652,Share,Sports,stay,Hall PLC,91.44,45.9,381,1,16-07-2021 11:59
+653,SKU100653,Company,Clothing,group,"Bass, Moore and Kent",643.22,272.28,205,1,07-04-2024 00:39
+654,SKU100654,Relationship,Beauty,save,"Gill, Bishop and Rivera",926.43,664.91,164,1,19-08-2024 05:30
+655,SKU100655,Lay,Electronics,building,Thompson Group,483.63,329.89,663,1,06-03-2023 18:03
+656,SKU100656,Issue,Sports,evening,Brooks PLC,57.03,24.79,422,1,01-07-2021 20:07
+657,SKU100657,Oil,Electronics,whom,Schwartz-Moran,856.08,587.71,599,1,04-02-2022 09:48
+658,SKU100658,Seek,Electronics,election,"Coleman, Newman and Pierce",80.09,53.84,580,1,24-02-2022 11:06
+659,SKU100659,Leg,Electronics,market,"West, Gentry and Bailey",88.17,37.13,440,1,25-09-2024 11:06
+660,SKU100660,Page,Clothing,story,Walter-Davis,835.36,557.01,316,1,03-04-2022 20:38
+661,SKU100661,Build,Electronics,home,Jimenez-Green,314.43,227.68,55,1,26-11-2023 15:26
+662,SKU100662,Skill,Sports,child,"Brooks, French and Bird",885.66,700.72,133,1,26-12-2023 08:59
+663,SKU100663,Later,Home,usually,"Solomon, Taylor and Hicks",869.84,632.57,823,1,24-11-2022 14:29
+664,SKU100664,Impact,Home,everyone,Aguilar PLC,911.78,493.87,348,1,27-02-2022 00:18
+665,SKU100665,Nation,Sports,step,"Scott, Nicholson and Novak",552.17,346.71,702,1,10-01-2025 19:42
+666,SKU100666,View,Home,place,Gonzalez and Sons,201.52,125.87,161,1,03-11-2021 01:25
+667,SKU100667,Call,Sports,themselves,Bailey-Parsons,991.9,563.48,583,1,24-12-2020 16:47
+668,SKU100668,Kind,Beauty,account,Adams-Mcclain,50.62,30.44,695,1,21-10-2023 15:05
+669,SKU100669,Especially,Electronics,somebody,Mcconnell-Brooks,752.25,323.15,833,1,08-10-2022 22:50
+670,SKU100670,Everybody,Electronics,base,Elliott LLC,217.33,176.21,654,1,10-07-2025 16:28
+671,SKU100671,And,Clothing,situation,Baker-Flores,38.36,15.73,180,1,01-03-2024 17:26
+672,SKU100672,Me,Clothing,though,Cole-Perez,461.09,271.69,251,1,06-08-2021 17:24
+673,SKU100673,Low,Sports,receive,"Dunlap, Salas and Ramirez",577.43,310.64,346,1,09-03-2024 03:35
+674,SKU100674,History,Clothing,hear,Walker-Tucker,433.9,307.47,62,1,18-09-2022 11:59
+675,SKU100675,Field,Sports,break,"Kline, Sanchez and King",973.29,513.9,688,1,26-02-2024 15:16
+676,SKU100676,Argue,Electronics,great,"Henderson, Lee and Spencer",84.13,71.36,160,1,23-05-2023 16:15
+677,SKU100677,Final,Home,pressure,Montoya PLC,702.61,558.4,734,1,11-01-2021 16:18
+678,SKU100678,Full,Sports,huge,May-Palmer,903.7,584.92,351,1,20-09-2024 16:44
+679,SKU100679,Machine,Clothing,understand,Lowery-Lester,641.12,418.28,577,1,31-10-2022 21:53
+680,SKU100680,Month,Electronics,during,Merritt LLC,191.36,98.96,689,1,27-11-2022 07:51
+681,SKU100681,Usually,Beauty,apply,Joyce PLC,326.53,272.01,755,1,03-08-2022 14:11
+682,SKU100682,Generation,Electronics,best,"Anderson, Collins and Morales",917.33,681.77,825,1,19-03-2023 22:12
+683,SKU100683,Bank,Home,clearly,Smith-Brady,402.37,331.41,20,1,07-03-2024 13:16
+684,SKU100684,Management,Home,analysis,"Gibson, Bentley and Bender",249.87,208.59,617,0,16-07-2023 16:17
+685,SKU100685,Attorney,Clothing,not,Taylor LLC,460.69,242.17,232,1,24-02-2022 12:55
+686,SKU100686,American,Clothing,source,Holland-Parker,718.97,334.66,353,1,03-02-2023 21:25
+687,SKU100687,Democrat,Sports,style,"Mullins, Miranda and Horton",527.67,436.34,709,1,30-01-2023 13:15
+688,SKU100688,Guy,Clothing,night,Collins-Rodriguez,285.96,205.41,877,1,14-12-2022 08:12
+689,SKU100689,Course,Sports,try,Hogan-Reeves,943.38,432.32,736,1,08-04-2022 09:22
+690,SKU100690,Near,Beauty,drug,Griffin LLC,622.25,291,216,1,21-02-2024 19:45
+691,SKU100691,Entire,Electronics,decide,"Moreno, Wilkinson and Steele",299.34,195.56,419,1,02-03-2024 07:33
+692,SKU100692,Media,Electronics,measure,Spencer LLC,898.4,625.82,22,1,28-06-2022 20:52
+693,SKU100693,Boy,Clothing,despite,Carroll-Church,574.44,374.29,177,1,19-07-2024 04:31
+694,SKU100694,Property,Electronics,reason,Espinoza LLC,169.22,111.09,388,1,11-07-2023 10:41
+695,SKU100695,Financial,Home,risk,"Wilkinson, Weiss and Alexander",135.48,62.04,433,1,07-01-2024 10:16
+696,SKU100696,Open,Electronics,check,"Cohen, Herman and Martinez",351.91,236.48,990,1,11-10-2021 13:01
+697,SKU100697,Law,Beauty,mother,Wright-Gardner,767.67,405.24,73,1,16-08-2021 16:57
+698,SKU100698,White,Beauty,write,"Walters, Russell and Franklin",645.04,394.32,581,1,25-02-2024 02:39
+699,SKU100699,Student,Clothing,sell,"Smith, Anderson and Rowland",768.18,593.86,234,1,08-02-2021 08:14
+700,SKU100700,Each,Clothing,raise,Maddox Inc,988.03,791.91,984,1,11-09-2024 11:33
+701,SKU100701,Kid,Clothing,turn,"Estrada, Beasley and Anderson",151.65,113.25,209,1,03-11-2024 08:17
+702,SKU100702,Seem,Sports,husband,"Cooper, Hines and West",278.86,201.48,708,1,29-03-2022 18:07
+703,SKU100703,Every,Home,read,Davis-Callahan,773.31,453.53,72,1,09-02-2024 13:29
+704,SKU100704,Wind,Clothing,woman,Pope and Sons,243.14,133.23,244,1,02-07-2021 20:47
+705,SKU100705,Energy,Clothing,goal,Dillon PLC,452.55,333.66,877,1,31-08-2022 05:44
+706,SKU100706,Leg,Electronics,develop,Sanchez-Ramos,25.45,15.59,159,1,21-02-2021 14:08
+707,SKU100707,Institution,Electronics,view,Herrera Ltd,77.96,34.72,186,1,02-06-2022 12:40
+708,SKU100708,Certain,Beauty,ready,Ross-Guerra,639.2,282.91,80,1,20-01-2025 02:34
+709,SKU100709,His,Beauty,name,Klein-Bell,266.26,165.91,517,1,21-07-2022 01:16
+710,SKU100710,Them,Sports,everything,Fisher Group,768.38,527.14,53,1,02-04-2021 09:25
+711,SKU100711,Only,Electronics,wear,"Thornton, Cook and Hernandez",373.07,153.97,636,1,15-04-2022 15:20
+712,SKU100712,Only,Sports,listen,Martinez Inc,647.09,264.65,955,1,05-08-2024 18:21
+713,SKU100713,Trip,Sports,international,Sullivan-Williams,670.39,324.12,183,1,30-04-2021 17:32
+714,SKU100714,Such,Home,read,"Bell, Mcintosh and Mann",715.23,567.24,133,1,31-05-2024 13:43
+715,SKU100715,Available,Sports,produce,"Conrad, Diaz and Bond",455.74,182.98,620,1,20-05-2024 01:08
+716,SKU100716,Over,Sports,vote,Stephens-Blake,259.06,160.87,525,1,10-03-2023 06:31
+717,SKU100717,Door,Home,hundred,Welch Ltd,792.19,619.07,451,1,23-02-2023 22:24
+718,SKU100718,Best,Clothing,role,Carrillo Ltd,519.53,323.45,166,1,18-12-2023 03:45
+719,SKU100719,Key,Beauty,must,Hernandez-Maxwell,653.51,443.83,445,1,07-02-2025 01:09
+720,SKU100720,After,Electronics,account,"Ruiz, Buchanan and Lindsey",199.19,130.38,830,1,28-08-2023 01:28
+721,SKU100721,Until,Beauty,effort,"Rodriguez, Phelps and Adkins",365.14,190.04,558,1,16-11-2024 10:48
+722,SKU100722,Simply,Sports,many,Ayala-Baldwin,981.89,796.82,996,1,21-10-2020 16:03
+723,SKU100723,Guess,Sports,as,Young-Moore,570.86,363.8,827,1,03-04-2025 18:02
+724,SKU100724,Hot,Clothing,hospital,Mccoy-Adams,606.67,270.13,107,1,22-04-2022 09:21
+725,SKU100725,Go,Sports,ask,"Barajas, Brown and Williams",724.88,392.27,950,1,06-02-2022 01:16
+726,SKU100726,Good,Sports,from,Crawford-Wilson,853,549.78,980,1,16-11-2021 08:26
+727,SKU100727,Executive,Home,father,George PLC,644.57,470.9,984,1,24-07-2020 09:04
+728,SKU100728,Economic,Home,modern,"Mccoy, Burch and Mack",976.14,586.35,72,1,24-09-2022 22:39
+729,SKU100729,Sport,Sports,us,Thomas-Arnold,217.1,116.03,337,1,10-10-2022 13:30
+730,SKU100730,Already,Sports,million,Miller Group,880.46,596.35,767,1,27-06-2022 12:26
+731,SKU100731,Protect,Electronics,travel,Newman-Davila,467.47,262.88,145,1,29-01-2024 16:01
+732,SKU100732,Indeed,Electronics,individual,"White, Thomas and Downs",25.29,10.35,175,1,04-12-2022 19:09
+733,SKU100733,Develop,Beauty,human,"Davila, Colon and Nichols",427.03,298.2,365,1,17-07-2020 01:37
+734,SKU100734,Smile,Sports,PM,Cooke-Bennett,822.58,577.16,57,1,04-06-2022 01:01
+735,SKU100735,Next,Clothing,reveal,"Rice, Lewis and Jones",354.28,243.19,232,1,09-01-2024 06:51
+736,SKU100736,Involve,Sports,ten,Tucker-Drake,653.59,518.67,197,1,11-07-2022 00:51
+737,SKU100737,Development,Home,behavior,Molina-Brown,701.68,385.16,908,1,02-11-2024 23:19
+738,SKU100738,Program,Home,cause,Ray-Patton,897.89,757.66,174,1,25-02-2021 16:31
+739,SKU100739,One,Home,training,Campos LLC,470.33,309.95,725,1,02-06-2024 21:32
+740,SKU100740,Production,Sports,town,Schultz PLC,955.51,505.6,793,1,18-04-2021 22:28
+741,SKU100741,Dog,Beauty,responsibility,"Davis, Johnston and Schaefer",398.25,251.7,487,1,05-09-2022 11:05
+742,SKU100742,Wish,Clothing,actually,Wagner PLC,93.4,68.75,167,1,15-08-2021 01:16
+743,SKU100743,Create,Sports,end,Wood-Jackson,760.85,375.01,137,1,05-01-2025 01:16
+744,SKU100744,Question,Beauty,where,Smith-Harper,31.16,17.02,197,1,02-10-2024 13:05
+745,SKU100745,Forward,Clothing,young,Whitehead PLC,313.93,217.54,669,1,24-11-2021 12:03
+746,SKU100746,Worry,Beauty,dream,Mason-Lopez,810.17,615.47,723,1,20-09-2021 15:21
+747,SKU100747,Her,Beauty,staff,"Collins, Pruitt and Cannon",661.46,358.52,994,0,02-12-2021 02:58
+748,SKU100748,More,Clothing,fund,"Pierce, Kelly and Zimmerman",764.05,437.77,685,1,15-03-2024 00:17
+749,SKU100749,Include,Home,artist,Martinez-Parker,281.56,235,785,1,09-11-2020 11:17
+750,SKU100750,Also,Clothing,case,Brooks LLC,941.55,408.17,461,1,11-02-2023 19:16
+751,SKU100751,Approach,Beauty,feeling,Mckenzie-Hopkins,232.38,159.48,339,1,14-02-2023 16:11
+752,SKU100752,Popular,Electronics,outside,Wilson-Bright,447.48,243.53,917,1,23-12-2020 18:33
+753,SKU100753,Per,Electronics,traditional,Goodman-Nguyen,352.83,243.75,809,1,01-12-2022 01:29
+754,SKU100754,Laugh,Sports,ago,Smith Inc,195.53,135.67,463,1,07-09-2021 17:37
+755,SKU100755,Offer,Electronics,particularly,"Padilla, Howard and Houston",23.85,13.35,280,1,31-01-2023 18:37
+756,SKU100756,Carry,Electronics,big,Robinson Ltd,743.11,435.77,634,1,14-02-2023 14:56
+757,SKU100757,Others,Sports,later,"Young, Smith and Cannon",405.41,245.92,815,1,08-11-2023 00:48
+758,SKU100758,Fall,Clothing,doctor,"Ward, Bennett and Brown",96.78,53.21,240,1,07-12-2021 06:45
+759,SKU100759,Get,Home,space,Bright Group,6.46,2.82,401,1,31-12-2023 11:02
+760,SKU100760,Three,Clothing,among,Clark-Wilson,345.45,197.02,472,1,01-04-2025 20:38
+761,SKU100761,Role,Sports,father,"Nelson, Martinez and Barajas",844.94,659.64,371,1,06-12-2022 02:24
+762,SKU100762,Painting,Beauty,mean,Patterson-Graham,882.99,641.32,658,1,07-05-2021 03:55
+763,SKU100763,Million,Electronics,might,Reyes-Ramirez,974.28,426.36,345,1,05-12-2020 04:35
+764,SKU100764,Day,Home,everything,Reyes Ltd,522.05,353.13,247,1,12-05-2022 03:59
+765,SKU100765,Military,Sports,hot,Lewis-Terry,613.9,327.6,779,1,22-10-2021 15:46
+766,SKU100766,Upon,Electronics,account,"Ramos, Hughes and Walter",121.69,87.17,884,1,19-08-2021 20:47
+767,SKU100767,Mrs,Clothing,carry,Arnold PLC,102.19,58.13,225,1,12-08-2021 19:09
+768,SKU100768,Leader,Electronics,feel,Cox-Ward,897.87,447.93,329,1,17-05-2025 23:20
+769,SKU100769,Over,Beauty,practice,"Cobb, Hull and Beck",875.82,467.12,610,1,31-10-2020 07:18
+770,SKU100770,Fire,Sports,store,Austin Inc,493.29,314.56,152,1,12-08-2022 11:48
+771,SKU100771,Stuff,Sports,should,Stone-Price,67.1,44.22,114,1,16-10-2021 13:23
+772,SKU100772,Skill,Electronics,half,"Duran, Jones and Perez",60.89,27.41,442,1,08-07-2025 23:10
+773,SKU100773,Shake,Sports,answer,Santana LLC,400.32,169.96,867,1,03-04-2025 11:43
+774,SKU100774,Board,Clothing,whether,Roberts Group,62.39,41.13,121,1,28-08-2024 16:37
+775,SKU100775,Leg,Sports,city,"King, Gonzalez and Long",658.63,433.61,453,1,08-10-2020 13:37
+776,SKU100776,Join,Beauty,hour,"Davis, Thompson and Cohen",676.36,302.17,291,1,07-09-2021 04:19
+777,SKU100777,TRUE,Sports,ever,Bailey LLC,37.12,30.38,689,1,04-12-2020 01:58
+778,SKU100778,Camera,Electronics,board,Gibson-Williams,463.88,314.12,883,1,17-08-2023 21:09
+779,SKU100779,Defense,Home,despite,"Garcia, Ray and Colon",607.06,496.92,18,1,13-08-2024 10:39
+780,SKU100780,Whether,Clothing,management,Wilkerson-Cox,752.2,484.02,729,1,21-10-2021 22:47
+781,SKU100781,Fund,Beauty,of,Smith-Sellers,850.26,546.4,156,1,27-03-2024 04:47
+782,SKU100782,Media,Sports,what,"Beck, Hernandez and Goodman",220.71,122.87,543,1,15-12-2020 20:08
+783,SKU100783,Design,Home,staff,Roberts Ltd,540.2,320.8,457,0,08-02-2025 07:33
+784,SKU100784,Seven,Home,catch,Holloway Group,920.99,446.06,12,1,17-03-2024 20:59
+785,SKU100785,Republican,Sports,expert,"Larsen, Rice and Baxter",945.31,620.55,66,1,16-12-2021 21:00
+786,SKU100786,Head,Beauty,authority,Mccarthy-Williams,261.06,200.09,363,1,27-09-2024 23:16
+787,SKU100787,Reduce,Home,choose,"Jones, Mcintyre and Mann",813.35,396.49,393,1,22-06-2023 20:30
+788,SKU100788,Not,Electronics,actually,Marsh Inc,155.63,108.32,855,1,13-11-2024 00:25
+789,SKU100789,Wear,Electronics,past,Davis Group,448.85,327.37,283,1,07-02-2024 11:53
+790,SKU100790,Successful,Clothing,treat,Pope-Rios,163.58,104.79,770,1,24-08-2022 14:57
+791,SKU100791,Yeah,Electronics,law,"Flores, Smith and Avila",312.04,210.35,656,1,29-09-2024 20:00
+792,SKU100792,She,Electronics,budget,Bennett-Martinez,84.33,63.79,581,1,02-04-2021 18:45
+793,SKU100793,Director,Home,off,"Bradford, Giles and Carter",641.68,448.38,676,1,10-07-2025 22:33
+794,SKU100794,Animal,Home,every,"Garcia, Spencer and Bailey",906.79,529.33,480,0,14-12-2022 01:59
+795,SKU100795,Range,Beauty,certainly,Spears PLC,90.36,45.2,64,1,10-04-2021 20:27
+796,SKU100796,Daughter,Home,important,"Hart, Jensen and Hughes",515.09,223.32,390,1,13-01-2022 22:38
+797,SKU100797,He,Sports,speech,Bradford-Booth,804.31,331.26,608,1,14-03-2024 01:53
+798,SKU100798,Billion,Beauty,success,Campbell LLC,435.05,233.78,268,1,09-02-2022 16:00
+799,SKU100799,Never,Electronics,to,Coleman Ltd,350.38,267.14,336,1,26-04-2021 23:45
+800,SKU100800,Theory,Home,nearly,Smith Inc,761.78,515.96,506,1,06-08-2020 22:03
+801,SKU100801,Do,Electronics,what,Webb-Alvarez,887.2,753.98,637,0,21-10-2024 22:27
+802,SKU100802,College,Beauty,word,Harris-Cox,164.73,124.42,610,1,02-12-2020 04:34
+803,SKU100803,TRUE,Sports,foreign,Harvey PLC,625.51,487.74,980,1,05-11-2024 00:08
+804,SKU100804,Process,Beauty,your,"Smith, Rojas and Brown",642.29,495.91,74,1,31-08-2022 12:55
+805,SKU100805,Specific,Electronics,economic,"Coleman, Joseph and Bolton",833.43,449,439,1,07-06-2022 07:05
+806,SKU100806,Forward,Electronics,probably,Williams-Phillips,429.51,311.45,105,1,12-11-2021 05:37
+807,SKU100807,Skin,Beauty,move,Fritz and Sons,469.26,219.83,284,1,12-02-2025 18:16
+808,SKU100808,Thousand,Sports,case,Cook-Williams,6.95,5.56,51,1,24-08-2022 16:30
+809,SKU100809,Significant,Clothing,popular,"Lewis, White and Taylor",34.65,25.4,567,1,25-12-2022 02:55
+810,SKU100810,Floor,Beauty,next,Barnett-Pearson,998.93,404.81,663,1,21-03-2023 14:54
+811,SKU100811,Weight,Clothing,dream,Carroll-Christensen,713.13,474.4,718,1,14-07-2023 23:47
+812,SKU100812,Loss,Home,big,"Walton, Lowery and Reid",288.45,116.26,60,1,25-10-2023 17:32
+813,SKU100813,Full,Beauty,myself,"Hughes, Rose and Johnson",368.67,271.3,885,1,04-06-2023 01:25
+814,SKU100814,Dark,Beauty,care,"Lawrence, Morgan and Michael",450.09,299.43,445,1,08-12-2021 22:46
+815,SKU100815,Specific,Clothing,recent,"Webb, Marshall and Jacobson",156.57,84.48,648,1,14-12-2021 12:24
+816,SKU100816,Create,Electronics,chair,Paul Group,422.25,291.51,624,1,05-06-2025 12:59
+817,SKU100817,Show,Beauty,me,Martinez-Little,965.44,536.6,954,1,12-04-2025 13:28
+818,SKU100818,Write,Beauty,open,"Brooks, Williams and Anderson",995.43,431.89,38,1,20-02-2024 12:32
+819,SKU100819,Manager,Sports,behavior,"Bonilla, Li and Kennedy",140.6,110.73,237,1,31-08-2022 17:59
+820,SKU100820,Travel,Home,yard,"Wilson, Massey and Ochoa",932.6,723.49,453,1,30-10-2020 07:02
+821,SKU100821,Race,Electronics,adult,Dunn LLC,488.9,362.72,544,1,20-04-2023 06:38
+822,SKU100822,Those,Sports,action,Ayers PLC,309.41,218.3,518,1,28-02-2023 20:15
+823,SKU100823,Our,Clothing,hair,Holland LLC,618.92,454.65,270,1,19-02-2023 11:17
+824,SKU100824,Wall,Home,either,"Richards, Gomez and Buck",281.87,181.02,93,1,27-04-2024 01:21
+825,SKU100825,Herself,Clothing,idea,Phillips-Scott,635.42,287.68,663,1,21-03-2024 12:35
+826,SKU100826,Star,Electronics,commercial,Huff-Mitchell,479.9,321.97,688,0,31-12-2023 02:37
+827,SKU100827,Number,Beauty,hit,Leonard-Davis,870.74,388.52,558,1,18-11-2020 02:17
+828,SKU100828,Small,Home,because,"Cunningham, Reyes and Kemp",365.69,206.9,160,1,18-06-2023 01:18
+829,SKU100829,Subject,Beauty,without,Ryan Inc,208.76,117.47,776,1,16-03-2024 22:42
+830,SKU100830,Ability,Clothing,sell,"Ritter, Ward and Miller",497.5,225.28,918,1,08-02-2021 06:53
+831,SKU100831,Animal,Home,risk,Daugherty-Bruce,323.18,228.37,150,1,19-10-2021 11:55
+832,SKU100832,Half,Home,agree,Vaughn and Sons,254.86,118.54,582,1,01-11-2020 00:36
+833,SKU100833,Color,Sports,perform,"Lang, Martinez and Ramirez",743.45,562.21,333,1,14-04-2022 23:56
+834,SKU100834,Congress,Home,family,Williams PLC,169.95,68.48,907,1,23-04-2022 08:52
+835,SKU100835,Building,Clothing,his,Wilson PLC,23.91,14.09,877,1,27-01-2023 07:08
+836,SKU100836,Eye,Electronics,stage,"Garcia, Stark and Goodman",772.44,559.4,914,1,22-06-2021 00:00
+837,SKU100837,Manager,Clothing,color,Hess-Hernandez,520.93,352.09,42,1,28-07-2021 20:25
+838,SKU100838,Scene,Sports,force,Fernandez-Fuller,680.35,320.89,191,1,01-03-2023 09:32
+839,SKU100839,Thing,Home,stand,Henry PLC,350.56,209.74,590,1,15-12-2022 06:55
+840,SKU100840,Sound,Sports,finally,Townsend-Campbell,733.88,442.76,897,1,06-07-2021 04:01
+841,SKU100841,And,Beauty,about,Patel LLC,631.89,355.46,974,1,28-07-2023 17:08
+842,SKU100842,Drive,Electronics,create,Dudley-Thompson,221.5,90.54,376,1,02-04-2025 05:53
+843,SKU100843,Value,Sports,although,"Huynh, Sanchez and Foster",137.31,96.72,147,1,13-11-2024 00:30
+844,SKU100844,Language,Sports,among,Hughes Inc,937.39,655.21,471,1,29-11-2020 06:48
+845,SKU100845,Unit,Home,population,"Stone, Kim and Ramirez",24.99,10.94,870,1,09-07-2023 01:39
+846,SKU100846,Somebody,Home,age,"Thompson, Silva and Lewis",941.42,693.14,855,1,05-08-2022 11:01
+847,SKU100847,Table,Clothing,bag,Medina Group,99.98,80.69,959,1,20-05-2023 09:20
+848,SKU100848,Win,Sports,than,Rodriguez LLC,479.42,264.57,871,1,06-10-2024 09:46
+849,SKU100849,Life,Home,involve,Brown and Sons,511.78,360.31,753,1,27-02-2023 04:41
+850,SKU100850,See,Beauty,into,Taylor Ltd,240.19,143.59,601,1,01-11-2022 21:59
+851,SKU100851,Allow,Clothing,brother,Burns Ltd,12.86,5.32,254,1,31-01-2022 02:27
+852,SKU100852,Friend,Electronics,exactly,Miller-Miller,541.93,359.03,817,1,14-11-2024 04:28
+853,SKU100853,Me,Home,exactly,Brown-Hayden,154.29,116.07,674,1,05-10-2020 23:02
+854,SKU100854,Right,Sports,doctor,"Harris, Williams and Jones",393.39,303.87,704,1,21-07-2020 19:39
+855,SKU100855,Performance,Sports,account,"Snyder, Rodriguez and Gibson",845.81,627.39,811,1,22-04-2021 15:25
+856,SKU100856,Church,Electronics,ago,"Sanchez, Gonzales and Sanchez",273.48,144.85,162,1,16-04-2022 22:13
+857,SKU100857,Citizen,Home,stand,Harris-King,927.13,435.39,156,1,24-06-2021 19:37
+858,SKU100858,Able,Clothing,because,Martinez Inc,964.88,671.13,790,1,24-12-2023 10:13
+859,SKU100859,Usually,Home,military,Snyder LLC,260.11,135.51,602,1,09-12-2020 14:33
+860,SKU100860,Case,Beauty,government,"Martinez, Martinez and Scott",735.13,334.42,58,1,27-06-2021 11:15
+861,SKU100861,Weight,Sports,sense,Hill Group,561.21,447.33,45,1,14-07-2022 07:29
+862,SKU100862,Alone,Home,among,"Elliott, Buck and Cruz",435.36,290.25,619,1,30-01-2023 07:39
+863,SKU100863,Price,Sports,difference,Fowler and Sons,343.17,142.97,673,1,05-10-2024 19:09
+864,SKU100864,Future,Beauty,especially,Osborn-Williams,203.68,147.5,144,1,15-03-2024 19:16
+865,SKU100865,Of,Sports,new,"West, Williams and Cross",149.97,99.28,15,1,29-04-2023 23:53
+866,SKU100866,Central,Sports,option,Ramos Group,189.61,119.09,814,1,16-05-2021 07:03
+867,SKU100867,Form,Home,real,Davis-Clark,751.45,383.59,649,1,11-11-2022 07:48
+868,SKU100868,Break,Sports,father,"Ramirez, Smith and Duffy",379.72,208.8,934,1,21-03-2022 19:16
+869,SKU100869,Which,Sports,success,Wilson Ltd,628.42,445.53,628,1,07-01-2023 07:16
+870,SKU100870,Firm,Beauty,by,"Flores, Collins and Ferrell",144.47,78.53,541,1,03-09-2021 04:03
+871,SKU100871,Structure,Electronics,statement,Luna Ltd,584.52,442.55,693,0,24-06-2023 13:44
+872,SKU100872,Cultural,Beauty,boy,Flynn LLC,550.69,347.75,958,1,21-08-2023 04:48
+873,SKU100873,Most,Electronics,right,Hood Ltd,35.9,15.47,471,1,05-10-2024 20:08
+874,SKU100874,Be,Home,result,Williams-Neal,597.86,286.07,720,1,21-01-2021 04:06
+875,SKU100875,Character,Beauty,to,"Mason, Hickman and Hamilton",248.26,208.03,30,1,15-12-2021 06:01
+876,SKU100876,Enter,Beauty,material,"Reynolds, Hernandez and Mcintyre",337.03,219.49,293,1,18-02-2025 14:36
+877,SKU100877,Yeah,Sports,image,Paul-Moreno,771.02,381.07,137,1,03-12-2023 08:10
+878,SKU100878,Leader,Sports,always,Martinez Group,841.21,402.27,507,1,21-08-2021 11:38
+879,SKU100879,Standard,Home,however,Jones-Mendoza,216.35,140.97,794,1,30-04-2023 19:48
+880,SKU100880,Customer,Beauty,put,"Martinez, Salazar and Martinez",716.53,311.09,56,1,17-02-2022 03:40
+881,SKU100881,Third,Home,focus,Bradley Group,236.77,189.74,47,1,25-06-2024 15:26
+882,SKU100882,Join,Sports,ahead,"Mccann, Davis and Erickson",983.46,645.64,337,0,08-06-2022 01:31
+883,SKU100883,Herself,Clothing,send,"King, Rivas and Guzman",378.92,273.65,180,1,06-05-2021 14:02
+884,SKU100884,Budget,Electronics,son,Smith-Williams,125.92,93.39,67,1,12-05-2023 18:50
+885,SKU100885,To,Sports,sport,"Pugh, Nelson and Carroll",848.99,520.12,170,1,06-01-2022 17:09
+886,SKU100886,Other,Home,high,Peterson Ltd,714.83,508.69,107,1,21-03-2023 14:06
+887,SKU100887,Letter,Sports,early,Cohen Ltd,964.7,540.77,316,1,24-07-2022 07:40
+888,SKU100888,Cell,Home,trade,Lam LLC,221.12,101.5,109,1,21-11-2024 22:41
+889,SKU100889,None,Electronics,religious,"Walker, Gordon and Hahn",491.87,221.83,315,1,03-07-2025 15:03
+890,SKU100890,Finally,Clothing,reveal,Bennett-Rivera,248.28,115.02,538,1,08-09-2023 16:05
+891,SKU100891,Attack,Clothing,war,Stark-Garcia,96.43,42.02,625,1,12-01-2025 13:41
+892,SKU100892,Accept,Clothing,own,"Moore, Cross and Valenzuela",29.06,14.48,119,1,12-01-2021 14:02
+893,SKU100893,Same,Sports,bill,"Lewis, Perez and Carrillo",134.64,81.33,91,1,19-11-2023 19:26
+894,SKU100894,Organization,Clothing,sell,"Davis, Bowers and Ross",568.6,229.92,230,1,20-11-2020 14:57
+895,SKU100895,Group,Electronics,travel,Villarreal and Sons,47.31,39.65,470,1,28-07-2022 15:33
+896,SKU100896,Teacher,Electronics,thus,"Proctor, Thornton and Morris",839.72,622.22,230,1,02-04-2022 11:59
+897,SKU100897,Personal,Beauty,military,Andersen Group,639.05,300.51,667,1,18-06-2021 14:14
+898,SKU100898,Section,Electronics,whatever,Hill and Sons,219.25,131.98,180,1,05-09-2023 16:02
+899,SKU100899,Always,Electronics,around,Carter-Owens,567.86,453.89,852,1,19-09-2022 04:59
+900,SKU100900,International,Clothing,country,Potter-White,9.86,7.78,397,1,07-10-2023 17:35
+901,SKU100901,Response,Sports,media,Conner Ltd,86.95,62.35,36,1,23-12-2022 00:49
+902,SKU100902,Before,Home,his,"Navarro, Hahn and Ramsey",497.85,399.53,37,1,26-10-2023 23:12
+903,SKU100903,He,Beauty,nation,"Snow, Adkins and Hunt",285.93,120.62,978,1,17-05-2023 17:44
+904,SKU100904,Material,Home,check,Andrews PLC,436.74,340.27,706,1,20-10-2023 11:20
+905,SKU100905,Analysis,Home,exactly,"Hood, Fuller and Evans",885.59,445.37,371,1,12-03-2025 20:34
+906,SKU100906,Class,Sports,everything,"Johnson, Gutierrez and Wilcox",954.94,687.19,135,1,10-10-2020 02:08
+907,SKU100907,Design,Beauty,purpose,Haynes Ltd,72.89,39.4,278,1,17-11-2021 03:30
+908,SKU100908,Force,Clothing,weight,Herrera-Williams,123.92,63.19,681,1,14-06-2022 23:30
+909,SKU100909,Administration,Home,soldier,Evans-Armstrong,730.58,403.33,226,1,02-04-2022 11:38
+910,SKU100910,Choose,Home,report,Anderson-Savage,34.17,19.75,56,1,30-10-2023 20:31
+911,SKU100911,Personal,Home,coach,Harvey-Duffy,934.56,724.95,300,0,29-03-2021 22:32
+912,SKU100912,Pressure,Home,conference,Smith PLC,480.37,212.33,346,1,02-08-2021 11:57
+913,SKU100913,Skill,Home,once,White and Sons,681.87,400.05,242,1,27-06-2021 05:02
+914,SKU100914,You,Beauty,property,Morgan Inc,226.18,129.54,978,0,12-11-2023 00:07
+915,SKU100915,Next,Beauty,team,"Briggs, Fleming and Wilson",483.11,236.86,103,1,14-08-2022 14:44
+916,SKU100916,Expect,Electronics,behind,Whitney and Sons,874.22,357.33,28,1,17-03-2022 09:40
+917,SKU100917,Author,Sports,situation,"Navarro, Kramer and Schwartz",301.95,174.02,499,1,07-09-2023 02:38
+918,SKU100918,Water,Beauty,continue,"Gonzalez, Wolfe and Kennedy",97.06,52.37,246,1,14-09-2022 14:47
+919,SKU100919,Fill,Electronics,create,Anderson-Martin,271.65,153,230,1,13-11-2021 00:44
+920,SKU100920,Hard,Clothing,thing,Myers-Drake,769.7,621,888,1,28-04-2022 16:29
+921,SKU100921,Deal,Clothing,actually,Mueller Inc,513.32,361.37,397,1,29-04-2023 16:11
+922,SKU100922,Writer,Electronics,why,"Smith, Griffin and Martin",291.14,137.59,514,1,03-12-2022 00:08
+923,SKU100923,Son,Home,ahead,Harris-Weber,647.38,433.11,218,1,15-02-2025 14:30
+924,SKU100924,Hand,Electronics,southern,"Lewis, Wallace and Thomas",99.45,83.53,614,1,09-04-2022 15:30
+925,SKU100925,Painting,Electronics,moment,Thomas-York,931.66,375.58,863,1,18-04-2022 00:59
+926,SKU100926,Someone,Electronics,view,"Schmidt, Evans and Morrison",852.39,634.64,467,0,13-12-2022 09:13
+927,SKU100927,Prevent,Beauty,leave,"Sharp, Harvey and Strickland",124.38,104.78,947,1,25-01-2021 02:29
+928,SKU100928,American,Clothing,just,Flores LLC,815.68,495.66,821,1,07-10-2022 10:39
+929,SKU100929,Matter,Home,step,Mayer PLC,404.24,322.76,677,1,02-05-2025 18:35
+930,SKU100930,Language,Clothing,case,"Jenkins, Powell and House",639.19,403.87,200,1,16-08-2023 08:33
+931,SKU100931,Group,Beauty,notice,Richards PLC,675.5,375.31,900,1,24-05-2025 16:20
+932,SKU100932,In,Sports,look,Mora-Smith,638.28,494.18,803,0,13-07-2025 06:35
+933,SKU100933,Peace,Clothing,human,"Mullins, Gilbert and Walker",15.11,12.08,865,0,26-02-2024 03:25
+934,SKU100934,City,Electronics,kid,Larson-Newman,557.93,345.23,848,1,21-02-2021 15:47
+935,SKU100935,Contain,Clothing,production,Richards-Allen,784.08,433.37,499,1,26-01-2024 22:36
+936,SKU100936,Detail,Home,establish,Brown PLC,298.88,153.52,739,0,17-04-2024 22:31
+937,SKU100937,Computer,Beauty,administration,Anderson Inc,861.19,526.24,958,1,13-07-2021 16:57
+938,SKU100938,Husband,Clothing,voice,Hartman Group,298.96,148.9,372,1,03-06-2025 02:13
+939,SKU100939,Information,Electronics,green,Robinson Group,358.35,297.69,50,1,05-12-2023 00:51
+940,SKU100940,Table,Sports,money,"Miles, Bailey and Barker",619.13,252.8,736,1,21-12-2020 15:57
+941,SKU100941,Type,Clothing,perhaps,Lewis Ltd,308.49,150.58,434,1,24-12-2023 03:30
+942,SKU100942,Note,Home,mother,"Martin, Jones and Moore",258.01,197.42,607,1,10-06-2022 14:48
+943,SKU100943,Model,Beauty,although,"Douglas, Guerrero and Smith",415.77,183.68,25,1,30-08-2024 04:14
+944,SKU100944,Own,Electronics,notice,"Scott, Anderson and Nixon",940.71,486.8,660,1,16-10-2024 21:34
+945,SKU100945,Book,Clothing,happy,Lindsey-Martinez,267.8,159.01,452,1,07-08-2021 04:59
+946,SKU100946,Themselves,Sports,address,"Turner, Sullivan and Glover",836.86,492.29,302,1,03-08-2022 23:07
+947,SKU100947,As,Home,skin,"Jones, Gardner and Howell",63.95,37.89,177,1,08-03-2024 15:47
+948,SKU100948,Successful,Home,develop,"Jackson, Brown and Johnson",338.95,274.09,676,1,03-07-2023 20:10
+949,SKU100949,Cold,Sports,life,Gordon-Martinez,192.27,141.19,431,1,10-08-2020 12:57
+950,SKU100950,Soon,Beauty,left,"Snyder, Smith and Todd",190.78,78.73,354,1,15-06-2025 15:30
+951,SKU100951,Next,Electronics,unit,"Velez, Hart and Vargas",73.92,41.87,98,1,10-02-2025 07:05
+952,SKU100952,As,Electronics,firm,"Calderon, Morgan and Schneider",977.58,588.61,359,1,13-08-2023 09:40
+953,SKU100953,Season,Electronics,style,"Hartman, Tapia and Downs",271.82,128.88,456,1,18-08-2022 04:28
+954,SKU100954,Foreign,Beauty,second,Garrison-Porter,208.15,153.99,760,1,31-12-2020 22:43
+955,SKU100955,Imagine,Beauty,lot,Lozano LLC,632.43,282.38,167,1,01-07-2024 18:16
+956,SKU100956,Camera,Clothing,this,Hodges-Ross,426.17,297.22,444,0,28-03-2024 12:08
+957,SKU100957,Guess,Sports,music,Strickland Group,140.93,60.23,291,1,15-07-2023 00:48
+958,SKU100958,Career,Sports,share,"Salazar, Taylor and Hicks",722.25,560.84,385,1,30-04-2023 00:43
+959,SKU100959,Go,Home,kind,"Rubio, Bryant and Rodriguez",557.23,312.06,338,1,08-07-2024 03:22
+960,SKU100960,Discuss,Electronics,nearly,Edwards Inc,557.31,454.08,762,1,04-07-2023 23:06
+961,SKU100961,Ability,Clothing,thank,"Mckenzie, Davis and Moody",650.53,552.58,253,1,15-08-2021 12:35
+962,SKU100962,Small,Beauty,Mrs,Pearson and Sons,829.03,545.6,158,1,05-01-2025 02:45
+963,SKU100963,Mr,Beauty,son,"Foster, Love and Mccoy",883.37,703.41,905,1,12-06-2023 16:18
+964,SKU100964,Science,Beauty,sit,Baldwin-Adams,434.77,175.53,352,1,15-08-2020 17:35
+965,SKU100965,Appear,Home,voice,Weiss-Reed,765.89,343.26,541,1,04-02-2024 00:52
+966,SKU100966,Do,Home,view,Blanchard Ltd,157.36,111.34,11,1,24-07-2020 09:49
+967,SKU100967,Author,Beauty,while,"Davis, Preston and Osborne",939.14,659.9,779,1,30-10-2023 11:20
+968,SKU100968,Wrong,Electronics,drive,Johnson and Sons,833.72,377.69,881,1,24-07-2020 19:25
+969,SKU100969,Offer,Clothing,its,"Gates, Leonard and Mason",792.7,505.82,190,1,04-12-2020 11:09
+970,SKU100970,Particular,Electronics,tree,Dickerson Group,209.13,140.56,870,1,08-09-2023 12:14
+971,SKU100971,Church,Sports,final,Coffey and Sons,198.79,166.36,224,1,01-07-2025 13:42
+972,SKU100972,Finally,Electronics,whether,Phillips-Smith,735.28,473.2,232,1,30-04-2022 03:42
+973,SKU100973,Cover,Sports,notice,"Carter, Porter and Jones",529.66,216.29,652,1,25-05-2025 13:01
+974,SKU100974,Interesting,Electronics,him,Pearson-Taylor,792.79,528.48,595,1,02-02-2024 14:06
+975,SKU100975,Girl,Electronics,scientist,Diaz Group,127.4,51.96,864,1,01-09-2022 17:27
+976,SKU100976,Rock,Beauty,spend,Patel-Smith,106.04,64.28,362,0,09-04-2024 05:30
+977,SKU100977,Lead,Clothing,data,Strickland-Simon,296.77,240.41,356,1,03-10-2024 00:03
+978,SKU100978,Nearly,Beauty,size,"Acosta, Johnson and Walker",280.96,219.81,966,0,12-11-2024 03:03
+979,SKU100979,Deal,Beauty,realize,Bennett Ltd,120.78,65.13,465,1,23-09-2021 08:08
+980,SKU100980,Maintain,Clothing,my,"Pollard, Gray and Pearson",473.47,307.06,251,1,03-06-2023 10:23
+981,SKU100981,Test,Clothing,close,Rodriguez-Morales,693.37,475.08,423,1,05-08-2024 04:07
+982,SKU100982,Art,Sports,in,Aguilar Ltd,610.24,408.71,639,1,25-09-2021 22:11
+983,SKU100983,Eat,Home,share,Huang-Bird,380.25,278.19,168,1,25-11-2023 04:30
+984,SKU100984,Strong,Home,forward,"Perkins, Hoffman and Jones",222.35,185.32,500,1,20-05-2025 10:08
+985,SKU100985,Second,Beauty,use,"Harper, Cruz and Moore",194.7,153.38,80,1,12-06-2025 01:28
+986,SKU100986,Process,Sports,morning,Beck PLC,988.35,540.54,783,1,03-01-2025 12:38
+987,SKU100987,Finish,Clothing,low,Lowery and Sons,806.73,362.34,64,1,21-12-2020 14:40
+988,SKU100988,Television,Sports,list,Rodriguez-Martinez,311.65,127.61,406,1,01-12-2022 08:04
+989,SKU100989,Under,Beauty,choose,Johnson Group,856.65,400.6,798,1,18-02-2025 15:03
+990,SKU100990,Board,Electronics,red,Campbell-Brown,387.73,276.38,656,1,01-07-2022 14:42
+991,SKU100991,Vote,Electronics,several,Taylor Inc,434.3,355.98,597,1,07-07-2022 18:23
+992,SKU100992,Friend,Clothing,catch,Dixon and Sons,793.48,374.57,190,1,08-08-2024 11:48
+993,SKU100993,Product,Clothing,rate,"Simon, Brown and Rogers",430.62,218.82,746,1,16-02-2024 15:23
+994,SKU100994,Small,Electronics,talk,"Collins, West and Estes",465.18,297.88,223,0,31-08-2023 09:48
+995,SKU100995,Ability,Clothing,future,Blake Ltd,527.9,273.59,76,1,09-08-2024 12:12
+996,SKU100996,Image,Electronics,education,Hudson-Ho,860.19,530.48,824,1,08-09-2022 14:48
+997,SKU100997,Certainly,Electronics,really,Brown PLC,563.73,330.53,111,1,08-05-2024 02:43
+998,SKU100998,Past,Home,mission,"Phillips, Mitchell and Gonzalez",290.52,166.12,25,1,28-03-2025 19:26
+999,SKU100999,Service,Home,attorney,"Davis, Long and Martinez",259.06,166.42,750,1,12-02-2024 13:35
+1000,SKU101000,Compare,Clothing,case,Miller Group,125.44,96.74,954,1,19-03-2022 07:06

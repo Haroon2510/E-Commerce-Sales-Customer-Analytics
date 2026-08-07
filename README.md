@@ -79,7 +79,7 @@ Potential future improvements include:
 
 # Author
 
-**Haroon Ul Rasheed**
+**Haroon Ul Rasheed**    
 Business Intelligence Developer | Data Analyst
 
 ### Skills

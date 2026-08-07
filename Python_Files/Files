@@ -1,1 +1,20 @@
 
+
+# Python Data Generation
+
+This folder contains the Python scripts used to generate the e-commerce project datasets.
+
+Libraries used:
+ - NumPy
+ - Pandas
+ - Faker
+ - tqdm
+ - OS
+ - datetime
+
+
+The scripts has generated the following datasets:
+ - dim_customer
+ - dim_order
+ - dim_product
+ - fact_order_items

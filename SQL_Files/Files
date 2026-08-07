@@ -1,1 +1,18 @@
 
+# SQL Server
+
+SQL Server was used for data storage, transformation and analysis.
+
+Activities Performed:
+ - Created database
+ - Created a schema
+ - Loaded raw csv data
+ - created raw tables
+ - Created SQL views from raw tables
+ - Used aggregations 
+ - Used window functions
+ - created analytical queries
+ - stored analytical queries within stored procedures
+
+
+The prepared views were later imported into Power BI

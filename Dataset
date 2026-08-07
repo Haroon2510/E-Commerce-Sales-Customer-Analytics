@@ -8,6 +8,8 @@ Libraries such as
 - Faker
 - tqdm
 
+Note: The datasets were generated specifically for this project
+and do not contain confidential or personal business data.
 
 ### dim_customer
 contains customer-related information
@@ -25,5 +27,4 @@ https://drive.google.com/file/d/1VetJiLqhS2rINkSXt1_YU1BYwBawiXRW/view?usp=drive
 contains individual product items associated with orders.
 https://drive.google.com/file/d/19pM-iYQrWN8aTrXJRZudaRiudNqMLbYF/view?usp=drive_link
 
-Note: The datasets were generated specifically for this project
-and do not contain confidential or personal business data.
+

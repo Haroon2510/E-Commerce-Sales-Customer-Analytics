@@ -1,1 +1,18 @@
 
+# POWER BI Report
+
+The Power BI report contains 8 pages covering
+Sales, Customers, Products, Orders and Business KPI's.
+
+
+Key Power BI features include:
+- Power Query
+- Data Modelling
+- Relationships
+- Date Table
+- DAX Measures
+- Conditional Formatting
+- Drillthrough
+- Tooltips
+- Static RLS
+- Dynamic RLS
